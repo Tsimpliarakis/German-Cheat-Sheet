@@ -42,3 +42,7 @@ If you’re new to German, start with:
 3. [Cases](https://github.com/tsimpliarakis/german-cheat-sheet/tree/main/cases)  
 
 These three are the foundation for almost everything else.
+
+## 🤝 Contributions
+For contribution guidelines, go here:  
+[CONTRIBUTING.md](https://github.com/tsimpliarakis/german-cheat-sheet/blob/main/CONTRIBUTING.md)
