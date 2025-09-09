@@ -58,7 +58,7 @@ Example structure:
    /alphabet
    /grammar
 /german-turkish
-   README.md
+   /README.md
    /alfabe
    /dilbilgisi
 ```
