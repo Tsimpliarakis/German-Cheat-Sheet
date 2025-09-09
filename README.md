@@ -24,8 +24,6 @@ Click on a topic to jump directly to its page:
 
 The goal is not to replace full textbooks but to create a **quick-access reference** for learners who want to review rules, patterns, and common pitfalls without searching across multiple sources.  
 
-Contributions are welcome — feel free to open a PR with your own notes or corrections!
-
 ---
 
 ## 📌 Notes
@@ -44,5 +42,7 @@ If you’re new to German, start with:
 These three are the foundation for almost everything else.
 
 ## 🤝 Contributions
+Contributions are welcome — feel free to open a PR with your own notes or corrections!
+
 For contribution guidelines, go here:  
 [CONTRIBUTING.md](https://github.com/tsimpliarakis/german-cheat-sheet/blob/main/CONTRIBUTING.md)
