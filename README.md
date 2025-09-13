@@ -36,8 +36,8 @@ The goal is not to replace full textbooks but to create a **quick-access referen
 ### 💡 Tip
 If you’re new to German, start with:
 1. [Alphabet](https://github.com/tsimpliarakis/german-cheat-sheet/tree/main/alphabet)  
-2. [Articles & Genders]([https://github.com/tsimpliarakis/german-cheat-sheet/tree/main/articles-genders](https://github.com/Tsimpliarakis/German-Cheat-Sheet/tree/main/grammar/articles))  
-3. [Cases]([https://github.com/tsimpliarakis/german-cheat-sheet/tree/main/cases](https://github.com/Tsimpliarakis/German-Cheat-Sheet/tree/main/grammar/cases))  
+2. [Articles & Genders](https://github.com/Tsimpliarakis/German-Cheat-Sheet/tree/main/grammar/articles) 
+3. [Cases](https://github.com/Tsimpliarakis/German-Cheat-Sheet/tree/main/grammar/cases)
 
 These three are the foundation for almost everything else.
 
