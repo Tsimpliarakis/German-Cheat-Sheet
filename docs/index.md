@@ -7,7 +7,7 @@ Navigate using the sidebar to find grammar notes, vocabulary lists, practice mat
 This site is generated from markdown files in the repository. To build locally:
 
 ```bash
-pip install mkdocs mkdocs-material
+pip install -r requirements.txt
 mkdocs serve
 ```
 
