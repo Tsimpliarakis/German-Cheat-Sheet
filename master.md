@@ -3,8 +3,19 @@
 % 2025
 
 # Introduction
-Welcome to my comprehensive German notes.  
-This book is organized into grammar, vocabulary, writing, speaking, culture, practice, and resources.  
+
+## Table of contents
+
+- [Verbs](#verbs)
+- [Nouns](#nouns)
+- [Adjectives](#adjectives)
+- [Pronouns](#pronouns)
+- [Syntax](#syntax)
+- [Articles](#articles)
+- [Miscellany](#miscellany)
+
+Welcome to my comprehensive German notes.
+This book is organized into grammar, vocabulary, writing, speaking, culture, practice, and resources.
 
 ---
 

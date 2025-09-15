@@ -2,10 +2,10 @@
 
 ## Introduction
 
-Modal verbs (Modalverben) modify the meaning of the main verb in a sentence.  
-They are usually followed by an **infinitive** without "zu" and are **irregular** in conjugation.  
+Modal verbs (Modalverben) modify the meaning of the main verb in a sentence.
+They are usually followed by an **infinitive** without "zu" and are **irregular** in conjugation.
 
-Common modal verbs: **können, müssen, dürfen, sollen, wollen, mögen, möchten**  
+Common modal verbs: **können, müssen, dürfen, sollen, wollen, mögen, möchten**
 
 ---
 
@@ -112,16 +112,16 @@ Common modal verbs: **können, müssen, dürfen, sollen, wollen, mögen, möchte
 
 ## 3. Quick Tips
 
-1. Modal verbs **always appear with an infinitive** of the main verb:  
-   - Ich **kann schwimmen**. / Er **will lernen**.  
-2. **Möchten** is the polite form of **mögen** used in requests.  
-3. In the **past tense**, modal verbs combine with **haben** and the main verb in infinitive:  
-   - Ich **habe schwimmen können**. (I was able to swim.)  
-4. Word order: The modal verb is conjugated and goes in the **second position**, while the main verb goes to the **end**.  
+1. Modal verbs **always appear with an infinitive** of the main verb:
+   - Ich **kann schwimmen**. / Er **will lernen**.
+2. **Möchten** is the polite form of **mögen** used in requests.
+3. In the **past tense**, modal verbs combine with **haben** and the main verb in infinitive:
+   - Ich **habe schwimmen können**. (I was able to swim.)
+4. Word order: The modal verb is conjugated and goes in the **second position**, while the main verb goes to the **end**.
 
 ---
 
 ## 4. Useful Resources
 
-- [Lingolia – Modalverben](https://deutsch.lingolia.com/de/grammatik/verben/modalverben) – clear explanations and exercises.  
-- [Scribbr – Modal Verbs](https://www.scribbr.de/) – structured guides with examples.  
+- [Lingolia – Modalverben](https://deutsch.lingolia.com/de/grammatik/verben/modalverben) – clear explanations and exercises.
+- [Scribbr – Modal Verbs](https://www.scribbr.de/) – structured guides with examples.
