@@ -160,6 +160,7 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('--apply', action='store_true', help='Apply changes')
     parser.add_argument('--debug', action='store_true', help='Print debug info per file')
+    parser.add_argument('--print-broken', action='store_true', help='Print potential broken links in detail')
     args = parser.parse_args()
 
     md_files = list(find_md_files(ROOT))
@@ -208,11 +209,15 @@ def main():
         for s in skipped:
             print('  -', s)
     if broken_links:
-        print('\nPotential broken links:')
-        for k, v in broken_links.items():
-            print(f'  {k}:')
-            for link in v:
-                print(f'    - {link}')
+        if args.print_broken:
+            print('\nPotential broken links:')
+            for k, v in broken_links.items():
+                print(f'  {k}:')
+                for link in v:
+                    print(f'    - {link}')
+        else:
+            # summary
+            print(f'\nPotential broken links found in {len(broken_links)} files. Run with --print-broken to see details.')
 
 if __name__ == '__main__':
     main()
