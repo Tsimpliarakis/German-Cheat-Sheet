@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+```
+>>>>>>> f9ae5e89f6524a5cda06a14db37ed45f1bcb506d
 german-cheat-sheet/
 │
 ├── README.md                   # Intro + global table of contents
@@ -103,3 +107,4 @@ german-cheat-sheet/
     ├── websites.md
     ├── youtube-channels.md
     └── apps-and-tools.md
+```
