@@ -1,133 +1,128 @@
 site_name: German Cheat Sheet
 site_url: https://tsimpliarakis.github.io/german-cheat-sheet/
 repo_url: https://github.com/tsimpliarakis/german-cheat-sheet
+
 docs_dir: docs
 use_directory_urls: true
+
+# Enable strict mode when building locally to catch broken links
+strict: false
+
 nav:
   - Home: index.md
   - Alphabet:
-    - Overview: alphabet/README.md
+      - Overview: alphabet/README.md
   - Grammar:
-    - Overview: grammar/README.md
-    - Articles:
-      - Overview: grammar/articles/README.md
-      - Definite: grammar/articles/definite.md
-      - Indefinite: grammar/articles/indefinite.md
-      - Negative: grammar/articles/negative.md
-      - No article: grammar/articles/no-article.md
-    - Nouns:
-      - Overview: grammar/nouns/README.md
-      - Cases: grammar/nouns/cases.md
-      - Declension: grammar/nouns/declension.md
-      - Gender: grammar/nouns/gender.md
-      - Plurals: grammar/nouns/plurals.md
-    - Verbs:
-      - Overview: grammar/verbs/README.md
-      - Conjugation: grammar/verbs/conjugation.md
-      - Irregular verbs: grammar/verbs/irregular-verbs.md
-      - Modal verbs: grammar/verbs/modal-verbs.md
-      - Passive voice: grammar/verbs/passive-voice.md
-      - Tenses: grammar/verbs/tenses.md
-    - Adjectives:
-      - Overview: grammar/adjectives/README.md
-      - Endings: grammar/adjectives/adjective-endings.md
-      - Comparison: grammar/adjectives/comparison.md
-      - Declension: grammar/adjectives/declension.md
-    - Pronouns:
-      - Overview: grammar/pronouns/README.md
-      - Demonstrative: grammar/pronouns/demonstrative.md
-      - Personal: grammar/pronouns/personal.md
-      - Possessive: grammar/pronouns/possessive.md
-      - Pronouns: grammar/pronouns/pronouns.md
-      - Reflexive: grammar/pronouns/reflexive.md
-      - Relative: grammar/pronouns/relative.md
-    - Syntax:
-      - Overview: grammar/syntax/README.md
-      - Main clauses: grammar/syntax/main-clauses.md
-      - Negation: grammar/syntax/negation.md
-      - Questions: grammar/syntax/questions.md
-      - Subordinate clauses: grammar/syntax/subordinate-clauses.md
-      - Word order: grammar/syntax/word-order.md
-    - Miscellany:
-      - Overview: grammar/miscellany/README.md
-      - Adverbs: grammar/miscellany/adverbs.md
-      - Conjunctions: grammar/miscellany/conjunctions.md
-      - Particles: grammar/miscellany/particles.md
-      - Prepositions: grammar/miscellany/prepositions.md
+      - Overview: grammar/README.md
+      - Articles:
+          - Definite: grammar/articles/definite.md
+          - Indefinite: grammar/articles/indefinite.md
+          - Negative: grammar/articles/negative.md
+          - No article: grammar/articles/no-article.md
+      - Nouns:
+          - Cases: grammar/nouns/cases.md
+          - Declension: grammar/nouns/declension.md
+          - Gender: grammar/nouns/gender.md
+          - Plurals: grammar/nouns/plurals.md
+      - Verbs:
+          - Conjugation: grammar/verbs/conjugation.md
+          - Irregular verbs: grammar/verbs/irregular-verbs.md
+          - Modal verbs: grammar/verbs/modal-verbs.md
+          - Passive voice: grammar/verbs/passive-voice.md
+          - Tenses: grammar/verbs/tenses.md
+      - Adjectives:
+          - Endings: grammar/adjectives/adjective-endings.md
+          - Comparison: grammar/adjectives/comparison.md
+          - Declension: grammar/adjectives/declension.md
+      - Pronouns:
+          - Demonstrative: grammar/pronouns/demonstrative.md
+          - Personal: grammar/pronouns/personal.md
+          - Possessive: grammar/pronouns/possessive.md
+          - Reflexive: grammar/pronouns/reflexive.md
+          - Relative: grammar/pronouns/relative.md
+      - Syntax:
+          - Main clauses: grammar/syntax/main-clauses.md
+          - Negation: grammar/syntax/negation.md
+          - Questions: grammar/syntax/questions.md
+          - Subordinate clauses: grammar/syntax/subordinate-clauses.md
+          - Word order: grammar/syntax/word-order.md
+      - Miscellany:
+          - Adverbs: grammar/miscellany/adverbs.md
+          - Conjunctions: grammar/miscellany/conjunctions.md
+          - Particles: grammar/miscellany/particles.md
+          - Prepositions: grammar/miscellany/prepositions.md
   - Vocabulary:
-    - Overview: vocabulary/README.md
-    - Basics: vocabulary/basics.md
-    - Education: vocabulary/education.md
-    - Food and drink: vocabulary/food-and-drink.md
-    - Healthcare: vocabulary/healthcare.md
-    - Housing: vocabulary/housing.md
-    - Idioms: vocabulary/idioms.md
-    - People: vocabulary/people.md
-    - Technology: vocabulary/technology.md
-    - Travel: vocabulary/travel.md
-    - Verbs: vocabulary/verbs.md
-    - Work: vocabulary/work.md
-    - Weather: vocabulary/weather.md
-    - Time and dates: vocabulary/time-and-dates.md
-    - Numbers: vocabulary/numbers.md
-    - Colors: vocabulary/colors.md
-    - Family: vocabulary/family.md
-    - Animals: vocabulary/animals.md
-    - Clothing: vocabulary/clothing.md
-    - Emotions: vocabulary/emotions.md
-    - Hobbies: vocabulary/hobbies.md
-    - Nature: vocabulary/nature.md
-    - Sports: vocabulary/sports.md
-    - Transportation: vocabulary/transportation.md
-    - Shopping: vocabulary/shopping.md
-    - Directions: vocabulary/directions.md
-    - Common phrases: vocabulary/common-phrases.md
-    - Greetings: vocabulary/greetings.md
-    - Questions: vocabulary/questions.md
-    - Travel phrases: vocabulary/travel-phrases.md
-    - At the restaurant: vocabulary/at-the-restaurant.md
-    - At the hotel: vocabulary/at-the-hotel.md
-    - At the airport: vocabulary/at-the-airport.md
-    - At the train station: vocabulary/at-the-train-station.md
-    - Emergency phrases: vocabulary/emergency-phrases.md
-    - Cybersecurity: vocabulary/cybersecurity.md
+      - Overview: vocabulary/README.md
+      - Basics: vocabulary/basics.md
+      - People: vocabulary/people.md
+      - Family: vocabulary/family.md
+      - Food and drink: vocabulary/food-and-drink.md
+      - Housing: vocabulary/housing.md
+      - Travel: vocabulary/travel.md
+      - Work: vocabulary/work.md
+      - Technology: vocabulary/technology.md
+      - Healthcare: vocabulary/healthcare.md
+      - Education: vocabulary/education.md
+      - Numbers: vocabulary/numbers.md
+      - Time and dates: vocabulary/time-and-dates.md
+      - Colors: vocabulary/colors.md
+      - Animals: vocabulary/animals.md
+      - Clothing: vocabulary/clothing.md
+      - Sports: vocabulary/sports.md
+      - Nature: vocabulary/nature.md
+      - Weather: vocabulary/weather.md
+      - Emotions: vocabulary/emotions.md
+      - Hobbies: vocabulary/hobbies.md
+      - Shopping: vocabulary/shopping.md
+      - Directions: vocabulary/directions.md
+      - Common phrases: vocabulary/common-phrases.md
+      - Questions: vocabulary/questions.md
+      - Travel phrases: vocabulary/travel-phrases.md
+      - At the restaurant: vocabulary/at-the-restaurant.md
+      - At the hotel: vocabulary/at-the-hotel.md
+      - At the airport: vocabulary/at-the-airport.md
+      - At the train station: vocabulary/at-the-train-station.md
+      - Emergency phrases: vocabulary/emergency-phrases.md
+      - Cybersecurity: vocabulary/cybersecurity.md
+      - Idioms: vocabulary/idioms.md
+      - Verbs: vocabulary/verbs.md
   - Practice:
-    - Overview: practice/README.md
-    - Exam prep: practice/exam-prep.md
-    - Exercises: practice/exercises.md
-    - Sample texts: practice/sample-texts.md
-    - Translations: practice/translations.md
-  - Resources:
-    - Overview: resources/README.md
-    - Apps and tools: resources/apps-and-tools.md
-    - Books: resources/books.md
-    - Websites: resources/websites.md
-    - YouTube channels: resources/youtube-channels.md
+      - Exam prep: practice/exam-prep.md
+      - Exercises: practice/exercises.md
+      - Sample texts: practice/sample-texts.md
+      - Translations: practice/translations.md
   - Writing:
-    - Overview: writing/README.md
-    - Formal writing: writing/formal-writing.md
-    - Informal writing: writing/informal-writing.md
-    - Punctuation: writing/punctuation.md
-    - Text types: writing/text-types.md
+      - Formal: writing/formal-writing.md
+      - Informal: writing/informal-writing.md
+      - Punctuation: writing/punctuation.md
+      - Text types: writing/text-types.md
   - Speaking:
-    - Overview: speaking/README.md
-    - Common phrases: speaking/common-phrases.md
-    - Conversation scenarios: speaking/conversation-scenarios.md
-    - Phonetics: speaking/phonetics.md
-    - Pronunciation: speaking/pronunciation.md
+      - Common phrases: speaking/common-phrases.md
+      - Conversation scenarios: speaking/conversation-scenarios.md
+      - Phonetics: speaking/phonetics.md
+      - Pronunciation: speaking/pronunciation.md
   - Culture:
-    - Overview: culture/README.md
-    - Customs and etiquette: culture/customs-and-etiquette.md
-    - Everyday life: culture/everyday-life.md
-    - German history: culture/german-history.md
-    - Politics and society: culture/politics-and-society.md
+      - Customs & etiquette: culture/customs-and-etiquette.md
+      - Everyday life: culture/everyday-life.md
+      - History: culture/german-history.md
+      - Politics & society: culture/politics-and-society.md
+  - Resources:
+      - Apps & tools: resources/apps-and-tools.md
+      - Books: resources/books.md
+      - Websites: resources/websites.md
+      - YouTube: resources/youtube-channels.md
 
 markdown_extensions:
   - toc:
       permalink: true
   - admonition
   - pymdownx.highlight
-
+  - pymdownx.superfences
+  - pymdownx.emoji
+  - pymdownx.tasklist
+  - pymdownx.details
+  - footnotes
+  - def_list
 
 theme:
   name: material
@@ -138,6 +133,11 @@ theme:
     - navigation.expand
     - search.highlight
     - search.suggest
+    - content.tabs.link
+    - content.code.copy
+    - content.code.annotate
+    - toc.integrate
+    - header.autohide
   palette:
     - scheme: default
       primary: red
@@ -155,5 +155,11 @@ theme:
     repo: fontawesome/brands/github
   language: en
 
-# Enable strict mode when building locally to catch broken links
-strict: false
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/tsimpliarakis/german-cheat-sheet
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/results?search_query=german+learning
+    - icon: fontawesome/solid/book
+      link: https://tsimpliarakis.github.io/german-cheat-sheet/
