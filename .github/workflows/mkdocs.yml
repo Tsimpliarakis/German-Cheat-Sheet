@@ -3,12 +3,12 @@ name: Build docs (MkDocs)
 on:
   push:
     branches: [ main ]
-  pull_request:
-    branches: [ main ]
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write   # <- This is critical
     steps:
       - uses: actions/checkout@v4
 
