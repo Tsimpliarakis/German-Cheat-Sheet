@@ -1,6 +1,7 @@
 site_name: German Cheat Sheet
 site_url: https://tsimpliarakis.github.io/german-cheat-sheet/
 repo_url: https://github.com/tsimpliarakis/german-cheat-sheet
+docs_dir: .
 use_directory_urls: false
 nav:
   - Home: index.md
