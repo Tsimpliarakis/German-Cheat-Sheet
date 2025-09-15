@@ -1,4 +1,4 @@
-german-language-bible/
+german-cheat-sheet/
 │
 ├── README.md                   # Intro + global table of contents
 ├── master.md                   # Master file for Pandoc PDF/book export
