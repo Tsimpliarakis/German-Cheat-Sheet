@@ -5,8 +5,8 @@ docs_dir: docs
 use_directory_urls: true
 nav:
   - Home: index.md
-  - Building: BUILDING.md
-  - Contributing: contributing.md
+  - Alphabet:
+    - Overview: alphabet/README.md
   - Grammar:
     - Overview: grammar/README.md
     - Articles:
@@ -67,6 +67,30 @@ nav:
     - Travel: vocabulary/travel.md
     - Verbs: vocabulary/verbs.md
     - Work: vocabulary/work.md
+    - Weather: vocabulary/weather.md
+    - Time and dates: vocabulary/time-and-dates.md
+    - Numbers: vocabulary/numbers.md
+    - Colors: vocabulary/colors.md
+    - Family: vocabulary/family.md
+    - Animals: vocabulary/animals.md
+    - Clothing: vocabulary/clothing.md
+    - Emotions: vocabulary/emotions.md
+    - Hobbies: vocabulary/hobbies.md
+    - Nature: vocabulary/nature.md
+    - Sports: vocabulary/sports.md
+    - Transportation: vocabulary/transportation.md
+    - Shopping: vocabulary/shopping.md
+    - Directions: vocabulary/directions.md
+    - Common phrases: vocabulary/common-phrases.md
+    - Greetings: vocabulary/greetings.md
+    - Questions: vocabulary/questions.md
+    - Travel phrases: vocabulary/travel-phrases.md
+    - At the restaurant: vocabulary/at-the-restaurant.md
+    - At the hotel: vocabulary/at-the-hotel.md
+    - At the airport: vocabulary/at-the-airport.md
+    - At the train station: vocabulary/at-the-train-station.md
+    - Emergency phrases: vocabulary/emergency-phrases.md
+    - Cybersecurity: vocabulary/cybersecurity.md
   - Practice:
     - Overview: practice/README.md
     - Exam prep: practice/exam-prep.md
@@ -97,8 +121,6 @@ nav:
     - Everyday life: culture/everyday-life.md
     - German history: culture/german-history.md
     - Politics and society: culture/politics-and-society.md
-  - Alphabet:
-    - Overview: alphabet/README.md
 
 markdown_extensions:
   - toc:
@@ -106,12 +128,32 @@ markdown_extensions:
   - admonition
   - pymdownx.highlight
 
+
 theme:
-  name: readthedocs
+  name: material
   features:
     - navigation.instant
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
     - search.highlight
     - search.suggest
+  palette:
+    - scheme: default
+      primary: red
+      accent: yellow
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - scheme: slate
+      primary: red
+      accent: yellow
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  icon:
+    repo: fontawesome/brands/github
+  language: en
 
 # Enable strict mode when building locally to catch broken links
 strict: false
