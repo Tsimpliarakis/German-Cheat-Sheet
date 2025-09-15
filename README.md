@@ -1,5 +1,9 @@
 # German-Cheat-Sheet
 
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](LICENSE)
+[![Markdown CI](https://github.com/tsimpliarakis/german-cheat-sheet/actions/workflows/markdown-ci.yml/badge.svg)](https://github.com/tsimpliarakis/german-cheat-sheet/actions/workflows/markdown-ci.yml)
+
+
 ## Table of contents
 
 - [📖 Contents](#-contents)
@@ -17,13 +21,13 @@ This repository is meant as a quick reference — like a personal textbook — c
 Click on a topic to jump directly to its page:
 
 - [Alphabet](https://github.com/tsimpliarakis/german-cheat-sheet/tree/main/alphabet)
-- [Articles & Genders](https://github.com/tsimpliarakis/german-cheat-sheet/tree/main/articles-genders)
-- [Cases (Nominative, Accusative, Dative, Genitive)](https://github.com/tsimpliarakis/german-cheat-sheet/tree/main/cases)
-- [Pronouns](https://github.com/tsimpliarakis/german-cheat-sheet/tree/main/pronouns)
-- [Verbs & Conjugation](https://github.com/tsimpliarakis/german-cheat-sheet/tree/main/verbs)
-- [Tenses](https://github.com/tsimpliarakis/german-cheat-sheet/tree/main/tenses)
-- [Word Order & Sentences](https://github.com/tsimpliarakis/german-cheat-sheet/tree/main/sentences)
-- [Adjectives & Adverbs](https://github.com/tsimpliarakis/german-cheat-sheet/tree/main/adjectives)
+- [Articles & Genders](https://github.com/tsimpliarakis/german-cheat-sheet/tree/main/grammar/articles)
+- [Cases (Nominative, Accusative, Dative, Genitive)](https://github.com/tsimpliarakis/german-cheat-sheet/tree/main/grammar/nouns)
+- [Pronouns](https://github.com/tsimpliarakis/german-cheat-sheet/tree/main/grammar/pronouns)
+- [Verbs & Conjugation](https://github.com/tsimpliarakis/german-cheat-sheet/tree/main/grammar/verbs)
+- [Tenses](https://github.com/tsimpliarakis/german-cheat-sheet/tree/main/grammar/verbs)
+- [Word Order & Sentences](https://github.com/tsimpliarakis/german-cheat-sheet/tree/main/grammar/syntax)
+- [Adjectives & Adverbs](https://github.com/tsimpliarakis/german-cheat-sheet/tree/main/grammar/adjectives)
 - [Vocabulary Collections](https://github.com/tsimpliarakis/german-cheat-sheet/tree/main/vocabulary)
 - [Cheat Sheets (Quick Reference)](https://github.com/tsimpliarakis/german-cheat-sheet/tree/main/cheatsheets)
 
@@ -62,4 +66,26 @@ These three are the foundation for almost everything else.
 Contributions are welcome — feel free to open a PR with your own notes or corrections!
 
 For contribution guidelines, go here:
-[CONTRIBUTING.md](https://github.com/tsimpliarakis/german-cheat-sheet/blob/main/CONTRIBUTING.md)
+[contributing.md](contributing.md)
+
+## How to build locally
+
+Small local checks and site preview:
+
+1. Run markdown lint locally (optional):
+
+```powershell
+npm install -g markdownlint-cli
+markdownlint "**/*.md"
+```
+
+2. Preview the documentation site (MkDocs):
+
+```powershell
+pip install mkdocs mkdocs-material
+mkdocs serve
+```
+
+CI: This repo runs a markdown lint and link-checker on pushes/PRs (see `.github/workflows`).
+
+Docs publishing: The repository is configured to build the MkDocs site and publish to GitHub Pages. See `DEPLOYMENT.md` for instructions to enable Pages in repository settings.

@@ -1,7 +1,13 @@
-<<<<<<< HEAD
-=======
-```
->>>>>>> f9ae5e89f6524a5cda06a14db37ed45f1bcb506d
+```markdown
+german-cheat-sheet/
+│
+├── README.md                   # Intro + global table of contents
+├── master.md                   # Master file for Pandoc PDF/book export
+│
+├── grammar/                     # All grammar topics
+│  ├── README.md                # Grammar overview
+│  │
++```
 german-cheat-sheet/
 │
 ├── README.md                   # Intro + global table of contents

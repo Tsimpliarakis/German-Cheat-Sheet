@@ -1,0 +1,28 @@
+site_name: German Cheat Sheet
+site_url: https://github.com/tsimpliarakis/german-cheat-sheet
+nav:
+  - Home: index.md
+  - Grammar:
+    - Overview: grammar/README.md
+    - Articles: grammar/articles/README.md
+    - Nouns: grammar/nouns/README.md
+    - Verbs: grammar/verbs/README.md
+    - Adjectives: grammar/adjectives/README.md
+    - Pronouns: grammar/pronouns/README.md
+    - Syntax: grammar/syntax/README.md
+    - Miscellany: grammar/miscellany/README.md
+  - Vocabulary: vocabulary/README.md
+  - Practice: practice/README.md
+  - Resources: resources/README.md
+  - Writing: writing/README.md
+  - Speaking: speaking/README.md
+  - Culture: culture/README.md
+
+markdown_extensions:
+  - toc:
+      permalink: true
+  - admonition
+  - pymdownx.highlight
+
+theme:
+  name: readthedocs
