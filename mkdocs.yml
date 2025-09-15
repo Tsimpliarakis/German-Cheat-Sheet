@@ -5,6 +5,8 @@ docs_dir: docs
 use_directory_urls: true
 nav:
   - Home: index.md
+  - Building: BUILDING.md
+  - Contributing: contributing.md
   - Grammar:
     - Overview: grammar/README.md
     - Articles:
