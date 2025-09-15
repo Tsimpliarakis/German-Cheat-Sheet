@@ -1,14 +1,12 @@
 site_name: German Cheat Sheet
 site_url: https://tsimpliarakis.github.io/german-cheat-sheet/
 repo_url: https://github.com/tsimpliarakis/german-cheat-sheet
+docs_dir: docs
 use_directory_urls: true
-docs_dir: .
 nav:
   - Home: index.md
   - Building: BUILDING.md
-  - Contributing: CONTRIBUTING.md
-  - Alphabet:
-    - Overview: alphabet/README.md
+  - Contributing: contributing.md
   - Grammar:
     - Overview: grammar/README.md
     - Articles:
@@ -99,7 +97,8 @@ nav:
     - Everyday life: culture/everyday-life.md
     - German history: culture/german-history.md
     - Politics and society: culture/politics-and-society.md
-
+  - Alphabet:
+    - Overview: alphabet/README.md
 
 markdown_extensions:
   - toc:
