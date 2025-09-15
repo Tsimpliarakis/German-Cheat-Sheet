@@ -1,13 +1,3 @@
-# Alphabet
-
-## Table of contents
-
-- [1. Basic Letters](#1-basic-letters)
-- [2. Special Letters](#2-special-letters)
-- [3. Pronunciation Tips](#3-pronunciation-tips)
-- [4. Example Words](#4-example-words)
-
-
 # The German Alphabet (Das Deutsche Alphabet)
 
 The German alphabet is very similar to the English alphabet but has a few additional letters and special characters. It consists of **26 basic letters** plus **4 extra letters**: ä, ö, ü, and ß.
