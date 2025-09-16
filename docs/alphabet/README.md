@@ -88,7 +88,6 @@ The German alphabet is very similar to the English alphabet but has a few additi
 | Hexe        | witch           | X (like 'ks')                |
 | Ypsilon     | the letter Y    | Y (like 'ü' or 'i')          |
 | Zoo         | zoo             | Z (like 'ts')                |
----
 
 This alphabet is the foundation for reading, writing, and pronunciation in German. Mastering it will make learning German vocabulary and grammar much easier.
 
