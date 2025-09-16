@@ -101,11 +101,12 @@ nav:
       - Conversation scenarios: speaking/conversation-scenarios.md
       - Phonetics: speaking/phonetics.md
       - Pronunciation: speaking/pronunciation.md
-  - Culture:
-      - Customs & etiquette: culture/customs-and-etiquette.md
-      - Everyday life: culture/everyday-life.md
-      - History: culture/german-history.md
-      - Politics & society: culture/politics-and-society.md
+  - Citizenship:
+      - Overview: citizenship/README.md
+      - Politics: citizenship/politics.md
+      - History: citizenship/history.md
+      - Society: citizenship/society.md
+      - State: citizenship/state.md
   - Resources:
       - Apps & tools: resources/apps-and-tools.md
       - Books: resources/books.md
