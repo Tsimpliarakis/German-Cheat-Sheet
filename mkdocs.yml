@@ -9,7 +9,7 @@ use_directory_urls: true
 strict: false
 
 nav:
-  - Home: index.md
+  - Home: README.md
   - Alphabet:
       - Overview: alphabet/README.md
   - Grammar:
