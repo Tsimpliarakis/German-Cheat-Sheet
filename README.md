@@ -70,14 +70,21 @@ For contribution guidelines, go here:
 
 ## How to build locally
 
-Small local checks and site preview:
+To build the site locally for preview or testing:
 
-1. Run markdown lint locally (optional):
-
-```powershell
-npm install -g markdownlint-cli
-markdownlint "**/*.md"
+```bash
+pip install -r requirements.txt
+mkdocs serve
 ```
+
+Or to produce the static site output:
+
+```bash
+mkdocs build
+```
+
+This project includes a GitHub Actions workflow that runs `mkdocs build --clean` on pushes and pull requests to `main`.
+
 
 2. Preview the documentation site (MkDocs):
 
