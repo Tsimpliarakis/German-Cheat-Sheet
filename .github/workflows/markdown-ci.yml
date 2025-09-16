@@ -1,0 +1,39 @@
+name: Markdown CI
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: Install markdownlint-cli
+        run: |
+          npm install -g markdownlint-cli@0.33.0
+
+      - name: Run markdownlint
+        run: |
+          markdownlint "**/*.md" --ignore node_modules --config .markdownlint.json || true
+
+  linkcheck:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install lychee (link checker)
+        run: |
+          curl -sSfL https://github.com/lycheeverse/lychee/releases/latest/download/lychee-x86_64-unknown-linux-musl.tar.gz | tar xz -C /usr/local/bin --strip-components=1 lychee
+
+      - name: Run lychee link check
+        run: |
+          lychee --timeout 15 --verbose "**/*.md" || true
