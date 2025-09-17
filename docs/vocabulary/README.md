@@ -5,7 +5,6 @@ This folder contains themed vocabulary lists with English translations and examp
 Click a topic to jump to its word lists and example phrases:
 
 - [Basics](basics.md) 🗣️
-- [Food and Drink](food-and-drink.md) 🍽️
 - [Travel](travel.md) ✈️
 - [People & Family](people.md) 👪
 - [Work](work.md) 💼

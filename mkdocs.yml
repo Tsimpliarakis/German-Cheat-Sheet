@@ -5,48 +5,53 @@ repo_url: https://github.com/tsimpliarakis/german-cheat-sheet
 docs_dir: docs
 use_directory_urls: true
 
-# Enable strict mode when building locally to catch broken links
 strict: false
 
 nav:
   - Home: README.md
-  - Alphabet:
-      - Overview: alphabet/README.md
+  - Alphabet: alphabet/README.md
   - Grammar:
       - Overview: grammar/README.md
       - Articles:
+          - Overview: grammar/articles/README.md
           - Definite: grammar/articles/definite.md
           - Indefinite: grammar/articles/indefinite.md
           - Negative: grammar/articles/negative.md
           - No article: grammar/articles/no-article.md
-      - Nouns:
+      - Nouns: 
+          - Overview: grammar/nouns/README.md
           - Cases: grammar/nouns/cases.md
           - Declension: grammar/nouns/declension.md
           - Gender: grammar/nouns/gender.md
           - Plurals: grammar/nouns/plurals.md
       - Verbs:
+          - Overview: grammar/verbs/README.md
           - Conjugation: grammar/verbs/conjugation.md
           - Irregular verbs: grammar/verbs/irregular-verbs.md
           - Modal verbs: grammar/verbs/modal-verbs.md
           - Passive voice: grammar/verbs/passive-voice.md
           - Tenses: grammar/verbs/tenses.md
       - Adjectives:
+          - Overview: grammar/adjectives/README.md
           - Endings: grammar/adjectives/adjective-endings.md
           - Comparison: grammar/adjectives/comparison.md
           - Declension: grammar/adjectives/declension.md
       - Pronouns:
+          - Overview: grammar/pronouns/README.md
           - Demonstrative: grammar/pronouns/demonstrative.md
           - Personal: grammar/pronouns/personal.md
           - Possessive: grammar/pronouns/possessive.md
           - Reflexive: grammar/pronouns/reflexive.md
           - Relative: grammar/pronouns/relative.md
       - Syntax:
+          - Overview: grammar/syntax/README.md
           - Main clauses: grammar/syntax/main-clauses.md
           - Negation: grammar/syntax/negation.md
           - Questions: grammar/syntax/questions.md
           - Subordinate clauses: grammar/syntax/subordinate-clauses.md
           - Word order: grammar/syntax/word-order.md
       - Miscellany:
+          - Overview: grammar/miscellany/README.md
           - Adverbs: grammar/miscellany/adverbs.md
           - Conjunctions: grammar/miscellany/conjunctions.md
           - Particles: grammar/miscellany/particles.md
@@ -54,53 +59,79 @@ nav:
   - Vocabulary:
       - Overview: vocabulary/README.md
       - Basics: vocabulary/basics.md
+      - Greetings: vocabulary/greetings.md
+      - Introductions: vocabulary/introductions.md
       - People: vocabulary/people.md
       - Family: vocabulary/family.md
-      - Food and drink: vocabulary/food-and-drink.md
+      - Friends: vocabulary/friends.md
+      - Jobs: vocabulary/jobs.md
+      - School: vocabulary/school.md
       - Housing: vocabulary/housing.md
-      - Travel: vocabulary/travel.md
-      - Work: vocabulary/work.md
-      - Technology: vocabulary/technology.md
-      - Healthcare: vocabulary/healthcare.md
       - Education: vocabulary/education.md
-      - Numbers: vocabulary/numbers.md
-      - Time and dates: vocabulary/time-and-dates.md
-      - Colors: vocabulary/colors.md
-      - Animals: vocabulary/animals.md
-      - Clothing: vocabulary/clothing.md
-      - Sports: vocabulary/sports.md
-      - Nature: vocabulary/nature.md
-      - Weather: vocabulary/weather.md
-      - Emotions: vocabulary/emotions.md
-      - Hobbies: vocabulary/hobbies.md
+      - Technology: vocabulary/technology.md
+      - Computers: vocabulary/computers.md
+      - Internet: vocabulary/internet.md
+      - Cybersecurity: vocabulary/cybersecurity.md
+      - Work: vocabulary/work.md
+      - Travel: vocabulary/travel.md
+      - Airport: vocabulary/airport.md
+      - Train: vocabulary/train.md
+      - Hotel: vocabulary/hotel.md
+      - Restaurant: vocabulary/restaurant.md
+      - Food: vocabulary/food.md
+      - Drink: vocabulary/drink.md
       - Shopping: vocabulary/shopping.md
-      - Directions: vocabulary/directions.md
+      - Clothing: vocabulary/clothing.md
+      - Colors: vocabulary/colors.md
+      - Numbers: vocabulary/numbers.md
+      - Time: vocabulary/time.md
+      - Dates: vocabulary/dates.md
+      - Weather: vocabulary/weather.md
+      - Nature: vocabulary/nature.md
+      - Animals: vocabulary/animals.md
+      - Hobbies: vocabulary/hobbies.md
+      - Sports: vocabulary/sports.md
+      - Body: vocabulary/body.md
+      - Health: vocabulary/health.md
+      - Healthcare: vocabulary/healthcare.md
+      - Emotions: vocabulary/emotions.md
       - Common phrases: vocabulary/common-phrases.md
       - Questions: vocabulary/questions.md
-      - Travel phrases: vocabulary/travel-phrases.md
-      - At the restaurant: vocabulary/at-the-restaurant.md
-      - At the hotel: vocabulary/at-the-hotel.md
-      - At the airport: vocabulary/at-the-airport.md
-      - At the train station: vocabulary/at-the-train-station.md
-      - Emergency phrases: vocabulary/emergency-phrases.md
-      - Cybersecurity: vocabulary/cybersecurity.md
-      - Idioms: vocabulary/idioms.md
+      - Directions: vocabulary/directions.md
+      - Transportation: vocabulary/transportation.md
+      - Culture: vocabulary/culture.md
+      - Festivals: vocabulary/festivals.md
+      - Law: vocabulary/law.md
+      - Politics: vocabulary/politics.md
+      - Adjectives: vocabulary/adjectives.md
+      - Adverbs: vocabulary/adverbs.md
+      - Pronouns: vocabulary/pronouns.md
+      - Prepositions: vocabulary/prepositions.md
+      - Conjunctions: vocabulary/conjunctions.md
       - Verbs: vocabulary/verbs.md
-  - Practice:
-      - Exam prep: practice/exam-prep.md
-      - Exercises: practice/exercises.md
-      - Sample texts: practice/sample-texts.md
-      - Translations: practice/translations.md
+      - Idioms: vocabulary/idioms.md
+  - Listening:
+      - Overview: listening/README.md
+  - Reading:
+      - Overview: reading/README.md
   - Writing:
+      - Overview: writing/README.md
       - Formal: writing/formal-writing.md
       - Informal: writing/informal-writing.md
       - Punctuation: writing/punctuation.md
       - Text types: writing/text-types.md
   - Speaking:
+      - Overview: speaking/README.md
       - Common phrases: speaking/common-phrases.md
       - Conversation scenarios: speaking/conversation-scenarios.md
       - Phonetics: speaking/phonetics.md
       - Pronunciation: speaking/pronunciation.md
+  - Practice:
+      - Overview: practice/README.md
+      - Exam prep: practice/exam-prep.md
+      - Exercises: practice/exercises.md
+      - Sample texts: practice/sample-texts.md
+      - Translations: practice/translations.md
   - Citizenship:
       - Overview: citizenship/README.md
       - Politics: citizenship/politics.md
@@ -108,10 +139,7 @@ nav:
       - Society: citizenship/society.md
       - State: citizenship/state.md
   - Resources:
-      - Apps & tools: resources/apps-and-tools.md
-      - Books: resources/books.md
-      - Websites: resources/websites.md
-      - YouTube: resources/youtube-channels.md
+      - Overview: resources/README.md
 
 markdown_extensions:
   - toc:
@@ -129,15 +157,17 @@ theme:
   name: material
   features:
     - navigation.instant
+    - navigation.instant.prefetch
     - navigation.tabs
     - navigation.sections
     - navigation.expand
+    - navigation.footer
     - search.highlight
     - search.suggest
     - content.tabs.link
     - content.code.copy
     - content.code.annotate
-    - toc.integrate
+    - toc.sticky 
     - header.autohide
   palette:
     - scheme: default
@@ -155,6 +185,14 @@ theme:
   icon:
     repo: fontawesome/brands/github
   language: en
+  favicon: assets/images/flag-circle.svg
+  logo: assets/images/flag-circle.svg
+
+plugins:
+  - search:
+      lang:
+        - en
+        - de
 
 extra:
   social:
@@ -162,3 +200,5 @@ extra:
       link: https://github.com/tsimpliarakis
     - icon: fontawesome/brands/instagram
       link: https://www.instagram.com/m.tsimpliarakis
+  author: Michail Tsimpliarakis
+  keywords: german, cheat sheet, grammar, vocabulary, phrases, learning, language, german-english, english-german, deutsch, deutsch-englisch, deutsch lernen, learn german
