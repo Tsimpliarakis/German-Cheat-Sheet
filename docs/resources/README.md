@@ -1,16 +1,5 @@
 # German Learning Resources
 
-## Table of contents
-
-- [1. YouTube Channels](#1-youtube-channels)
-- [2. Websites / Apps](#2-websites--apps)
-- [3. Podcasts / Audio](#3-podcasts--audio)
-- [4. Tips for Using Resources](#4-tips-for-using-resources)
-- [5. Other Repos](#5-other-repos)
-  - [1. [awesome-german](https://github.com/willianpaixao/awesome-german)](#1-awesome-germanhttpsgithubcomwillianpaixaoawesome-german)
-  - [2. [Learning-German](https://github.com/DipanshKhandelwal/Learning-German)](#2-learning-germanhttpsgithubcomdipanshkhandelwallearning-german)
-
-
 A curated list of useful resources to learn and practice German, including YouTube channels, apps, websites, and more.
 
 ---
