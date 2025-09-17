@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="512" height="512"
+     viewBox="0 0 100 100"
+     preserveAspectRatio="xMidYMid meet"
+     role="img" aria-label="German flag in a circle">
+  <!-- Circle clipping mask so stripes stay perfectly circular -->
+  <defs>
+    <clipPath id="circleClip">
+      <circle cx="50" cy="50" r="50" />
+    </clipPath>
+  </defs>
+
+  <!-- Background (optional) -->
+  <rect width="100" height="100" fill="none" />
+
+  <!-- Three horizontal stripes clipped to circle -->
+  <g clip-path="url(#circleClip)">
+    <!-- Top: black -->
+    <rect x="0" y="0" width="100" height="33.3333" fill="#000000" />
+    <!-- Middle: red (official-ish) -->
+    <rect x="0" y="33.3333" width="100" height="33.3334" fill="#DD0000" />
+    <!-- Bottom: gold -->
+    <rect x="0" y="66.6667" width="100" height="33.3333" fill="#FFCC00" />
+  </g>
+
+  <!-- Optional thin transparent stroke to keep crisp edges on some viewers -->
+  <circle cx="50" cy="50" r="49.5" fill="none" stroke="transparent" stroke-width="1" />
+</svg>
