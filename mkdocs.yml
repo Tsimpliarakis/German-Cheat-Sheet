@@ -1,6 +1,7 @@
 site_name: German Cheat Sheet
 site_url: https://tsimpliarakis.github.io/German-Cheat-Sheet/
 repo_url: https://github.com/Tsimpliarakis/German-Cheat-Sheet/
+repo_name: Tsimpliarakis/German-Cheat-Sheet/
 
 docs_dir: docs
 use_directory_urls: true
@@ -194,9 +195,9 @@ plugins:
 
 extra:
   social:
-    - icon: fontawesome/brands/github
-      link: https://github.com/tsimpliarakis
     - icon: fontawesome/brands/instagram
       link: https://www.instagram.com/m.tsimpliarakis
+    - icon: fontawesome/brands/github
+      link: https://github.com/tsimpliarakis
   author: Michail Tsimpliarakis
   keywords: german, cheat sheet, grammar, vocabulary, phrases, learning, language, german-english, english-german, deutsch, deutsch-englisch, deutsch lernen, learn german
