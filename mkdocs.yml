@@ -1,6 +1,6 @@
 site_name: German Cheat Sheet
-site_url: https://tsimpliarakis.github.io/german-cheat-sheet/
-repo_url: https://github.com/tsimpliarakis/german-cheat-sheet
+site_url: https://tsimpliarakis.github.io/German-Cheat-Sheet/
+repo_url: https://tsimpliarakis.github.io/German-Cheat-Sheet/
 
 docs_dir: docs
 use_directory_urls: true
@@ -8,7 +8,6 @@ use_directory_urls: true
 strict: false
 
 nav:
-  - Home: README.md
   - Alphabet: alphabet/README.md
   - Grammar:
       - Overview: grammar/README.md
@@ -138,8 +137,7 @@ nav:
       - History: citizenship/history.md
       - Society: citizenship/society.md
       - State: citizenship/state.md
-  - Resources:
-      - Overview: resources/README.md
+  - Resources: resources/README.md
 
 markdown_extensions:
   - toc:

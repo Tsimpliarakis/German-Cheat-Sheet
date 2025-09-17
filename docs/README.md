@@ -1,7 +1,3 @@
----
-title: German Cheat Sheet
----
-
 # **German Cheat Sheet**
 
 ![German Flag](assets/images/flag-full.svg)
