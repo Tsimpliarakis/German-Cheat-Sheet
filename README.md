@@ -1,6 +1,6 @@
 # German-Cheat-Sheet
 
-[![License: CC BY-SA 4.0](https://github.com/Tsimpliarakis/German-Cheat-Sheet?tab=License-1-ov-file#readme)](LICENSE)
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://github.com/tsimpliarakis/german-cheat-sheet/actions/workflows/markdown-ci.yml)
 [![Markdown CI](https://github.com/tsimpliarakis/german-cheat-sheet/actions/workflows/markdown-ci.yml/badge.svg)](https://github.com/tsimpliarakis/german-cheat-sheet/actions/workflows/markdown-ci.yml)
 
 ---
@@ -71,4 +71,4 @@ mkdocs build
 ## License
 
 This project is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0).  
-See the [LICENSE](https://github.com/Tsimpliarakis/German-Cheat-Sheet?tab=License-1-ov-file#readme) file for details.
+See the [LICENSE](https://github.com/tsimpliarakis/german-cheat-sheet/actions/workflows/markdown-ci.yml) file for details.
