@@ -1,45 +1,13 @@
-# Python
-__pycache__/
-*.py[cod]
-*$py.class
-env/
-venv/
-.venv/
-ENV/
-build/
-dist/
-*.egg-info/
-.eggs/
-
 # MkDocs build output
 site/
 
-# Editor files
-.vscode/
-.idea/
-*.sublime-project
-*.sublime-workspace
-
-# OS
+# OS/editor junk
 .DS_Store
 Thumbs.db
+.vscode/
+.idea/
 
-# Test / typecheck
-.pytest_cache/
-.mypy_cache/
-.coverage
-htmlcov/
-
-# Node
-node_modules/
-
-# Environment files
-.env
-.env.local
-.env.*.local
-
-# Jupyter
-.ipynb_checkpoints/
-
-# Misc
-*.log
+# Virtual environments (if you use them here)
+.venv/
+venv/
+env/

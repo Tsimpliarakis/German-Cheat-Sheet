@@ -23,7 +23,7 @@ jobs:
 
       - name: Run markdownlint
         run: |
-          markdownlint "**/*.md" --ignore node_modules --config .markdownlint.json || true
+          markdownlint "**/*.md" --ignore node_modules --config .markdownlint.json
 
   linkcheck:
     runs-on: ubuntu-latest
@@ -36,4 +36,4 @@ jobs:
 
       - name: Run lychee link check
         run: |
-          lychee --timeout 15 --verbose "**/*.md" || true
+          lychee --timeout 15 --verbose "**/*.md"

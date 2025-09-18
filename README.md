@@ -56,7 +56,7 @@ For contribution guidelines, go here:
 To build the site locally for preview or testing:
 
 ```
-pip3 install -r requirements.txt
+pip install -r requirements.txt
 mkdocs serve
 ```
 
