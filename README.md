@@ -15,6 +15,8 @@
 
 ---
 
+![German flag](/docs/assets/images/flag-full.svg)
+
 A simple and structured collection of notes, examples, and resources to help anyone learning German.
 This repository is meant as a quick reference — like a personal textbook — covering grammar, vocabulary, and essential rules.
 
