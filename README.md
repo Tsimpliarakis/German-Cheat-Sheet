@@ -11,7 +11,7 @@
 - [🚀 Goal](#-goal)
 - [📌 Notes](#-notes)
 - [🤝 Contributions](#-contributions)
-- [🔧 How to build locally](#-how-to-build-locally)
+- [🛠 How to build locally](#-how-to-build-locally)
 - [⚖️ License](#%EF%B8%8F-license)
 
 ---
@@ -45,7 +45,7 @@ For contribution guidelines, go here:
 
 ---
 
-## 🔧 How to build locally
+## 🛠 How to build locally
 
 To build the site locally for preview or testing:
 
