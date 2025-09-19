@@ -7,12 +7,13 @@
 
 ## Table of contents
 
-- [📖 Contents](#-contents)
+- [📖 Contents](#table-of-contents)
 - [🚀 Goal](#-goal)
 - [📌 Notes](#-notes)
-  - [💡 Tip](#-tip)
 - [🤝 Contributions](#-contributions)
+- [🛠️ How to build locally](#%EF%B8%8F-how-to-build-locally)
 
+---
 
 A simple and structured collection of notes, examples, and resources to help anyone learning German.
 This repository is meant as a quick reference — like a personal textbook — covering grammar, vocabulary, and essential rules.
@@ -32,16 +33,6 @@ The goal is not to replace full textbooks but to create a **quick-access referen
 
 ---
 
-### 💡 Tip
-If you’re new to German, start with:
-1. [Alphabet](https://github.com/tsimpliarakis/german-cheat-sheet/tree/main/alphabet)
-2. [Articles & Genders](https://github.com/Tsimpliarakis/German-Cheat-Sheet/tree/main/grammar/articles)
-3. [Cases](https://github.com/Tsimpliarakis/German-Cheat-Sheet/tree/main/grammar/cases)
-
-These three are the foundation for almost everything else.
-
----
-
 ## 🤝 Contributions
 
 Contributions are welcome — feel free to open a PR with your own notes or corrections!
@@ -51,7 +42,7 @@ For contribution guidelines, go here:
 
 ---
 
-## How to build locally
+## 🛠️ How to build locally
 
 To build the site locally for preview or testing:
 
