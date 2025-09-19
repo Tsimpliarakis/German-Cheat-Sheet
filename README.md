@@ -41,7 +41,7 @@ The goal is not to replace full textbooks but to create a **quick-access referen
 Contributions are welcome — feel free to open a PR with your own notes or corrections!
 
 For contribution guidelines, go here:
-[CONTRIBUTING](CONTRIBUTING.md)
+[CONTRIBUTING](https://github.com/Tsimpliarakis/German-Cheat-Sheet?tab=contributing-ov-file#readme)
 
 ---
 
