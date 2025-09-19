@@ -12,7 +12,7 @@ Thank you for considering contributing! This project is meant to be a helpful re
 2. **Clone your fork locally**
 
    ```bash
-   git clone https://github.com/YOUR-USERNAME/german-cheat-sheet.git
+   git clone https://github.com/tsimpliarakis/german-cheat-sheet.git
    cd german-cheat-sheet
    ```
 
