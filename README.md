@@ -12,7 +12,7 @@
 - [📌 Notes](#-notes)
 - [🤝 Contributions](#-contributions)
 - [🛠 How to build locally](#-how-to-build-locally)
-- [⚖️ License](#%EF%B8%8F-license)
+- [⚖ License](#-license)
 
 ---
 
@@ -62,6 +62,6 @@ mkdocs build
 
 ---
 
-## ⚖️ License
+## ⚖ License
 This project is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0).  
 See the [LICENSE](https://github.com/Tsimpliarakis/German-Cheat-Sheet/?tab=License-1-ov-file#readme) file for details.
