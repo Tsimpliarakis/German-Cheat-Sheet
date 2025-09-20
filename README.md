@@ -7,12 +7,12 @@
 
 ## Table of contents
 
-- [📖 Contents](#table-of-contents)
-- [🚀 Goal](#-goal)
-- [📌 Notes](#-notes)
-- [🤝 Contributions](#-contributions)
-- [🛠 How to build locally](#-how-to-build-locally)
-- [⚖ License](#-license)
+- 📖 [Contents](#table-of-contents)
+- 🚀 [Goal](#-goal)
+- 📌 [Notes](#-notes)
+- 🤝 [Contributions](#-contributions)
+- 🛠 [How to build locally](#-how-to-build-locally)
+- ⚖ [License](#-license)
 
 ---
 
