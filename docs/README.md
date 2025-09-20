@@ -10,7 +10,7 @@ A compact, well-organized reference for learners of German. This site collects c
 
 ---
 
-## Overview
+## 📋 Overview
 
 - 🏠 [Home](README.md)  
   Start here. Overview of the project, structure, and how to navigate the materials.
