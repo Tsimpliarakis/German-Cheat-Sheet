@@ -43,7 +43,7 @@ The German alphabet is similar to English but includes **4 extra letters**: **ä
 | Ä      | ä (Umlaut)    | like 'e' in "bed"            | *Männer* (men)  | <audio controls controlslist="nodownload" src="../assets/audio/Ä.m4a"/>         |
 | Ö      | ö (Umlaut)    | like 'i' in "bird"           | *Löwe* (lion)    | <audio controls controlslist="nodownload" src="../assets/audio/Ö.m4a"/>         |
 | Ü      | ü (Umlaut)    | like 'ee' in "see"           | *Tür* (door)     | <audio controls controlslist="nodownload" src="../assets/audio/Ü.m4a"/>         |
-| ß      | Eszett / Scharfes s       | like 'ss' in "hiss"          | *Straße* (street)| <audio controls controlslist="nodownload" src="../assets/audio/ß.m4a"/>         |
+| ß      | Eszett / Scharfes s       | like 'ss' in "hiss"          | *Straße* (street)| <audio controls controlslist="nodownload" src="../assets/audio/SS.m4a"/>         |
 
 ---
 
