@@ -12,8 +12,6 @@ A compact, well-organized reference for learners of German. This site collects c
 
 ## 📋 Overview
 
-- 🏠 [Home](README.md)  
-  Start here. Overview of the project, structure, and how to navigate the materials.
 - 🔤 [Alphabet](alphabet/README.md)  
   Learn the German alphabet, sounds, and special characters (ä, ö, ü, ß).
 - 🧩 [Grammar](grammar/README.md)  
