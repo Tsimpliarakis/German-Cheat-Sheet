@@ -12,53 +12,53 @@ nav:
   - Home: README.md
   - Alphabet: alphabet/README.md
   - Grammar:
-      - Overview: grammar/README.md
+      - Grammar: grammar/README.md
       - Articles:
-          - Overview: grammar/articles/README.md
+          - Articles: grammar/articles/README.md
           - Definite: grammar/articles/definite.md
           - Indefinite: grammar/articles/indefinite.md
           - Negative: grammar/articles/negative.md
           - No article: grammar/articles/no-article.md
       - Nouns: 
-          - Overview: grammar/nouns/README.md
+          - Nouns: grammar/nouns/README.md
           - Cases: grammar/nouns/cases.md
           - Declension: grammar/nouns/declension.md
           - Gender: grammar/nouns/gender.md
           - Plurals: grammar/nouns/plurals.md
       - Verbs:
-          - Overview: grammar/verbs/README.md
+          - Verbs: grammar/verbs/README.md
           - Conjugation: grammar/verbs/conjugation.md
           - Irregular verbs: grammar/verbs/irregular-verbs.md
           - Modal verbs: grammar/verbs/modal-verbs.md
           - Passive voice: grammar/verbs/passive-voice.md
           - Tenses: grammar/verbs/tenses.md
       - Adjectives:
-          - Overview: grammar/adjectives/README.md
+          - Adjectives: grammar/adjectives/README.md
           - Endings: grammar/adjectives/adjective-endings.md
           - Comparison: grammar/adjectives/comparison.md
           - Declension: grammar/adjectives/declension.md
       - Pronouns:
-          - Overview: grammar/pronouns/README.md
+          - Pronouns: grammar/pronouns/README.md
           - Demonstrative: grammar/pronouns/demonstrative.md
           - Personal: grammar/pronouns/personal.md
           - Possessive: grammar/pronouns/possessive.md
           - Reflexive: grammar/pronouns/reflexive.md
           - Relative: grammar/pronouns/relative.md
       - Syntax:
-          - Overview: grammar/syntax/README.md
+          - Syntax: grammar/syntax/README.md
           - Main clauses: grammar/syntax/main-clauses.md
           - Negation: grammar/syntax/negation.md
           - Questions: grammar/syntax/questions.md
           - Subordinate clauses: grammar/syntax/subordinate-clauses.md
           - Word order: grammar/syntax/word-order.md
       - Miscellany:
-          - Overview: grammar/miscellany/README.md
+          - Miscellany: grammar/miscellany/README.md
           - Adverbs: grammar/miscellany/adverbs.md
           - Conjunctions: grammar/miscellany/conjunctions.md
           - Particles: grammar/miscellany/particles.md
           - Prepositions: grammar/miscellany/prepositions.md
   - Vocabulary:
-      - 📘 Overview: vocabulary/README.md
+      - 📘 Vocabulary: vocabulary/README.md
       - 📝 Basics: vocabulary/basics.md
       - 🙋 Greetings: vocabulary/greetings.md
       - 🧑 People: vocabulary/people.md
@@ -86,30 +86,13 @@ nav:
       - 🚨 Emergency: vocabulary/emergency.md
       - 💰 Money: vocabulary/money.md
       - 🌍 Countries: vocabulary/countries.md
-  - Listening:
-      - Overview: listening/README.md
-  - Reading:
-      - Overview: reading/README.md
-  - Writing:
-      - Overview: writing/README.md
-      - Formal: writing/formal-writing.md
-      - Informal: writing/informal-writing.md
-      - Punctuation: writing/punctuation.md
-      - Text types: writing/text-types.md
-  - Speaking:
-      - Overview: speaking/README.md
-      - Common phrases: speaking/common-phrases.md
-      - Conversation scenarios: speaking/conversation-scenarios.md
-      - Phonetics: speaking/phonetics.md
-      - Pronunciation: speaking/pronunciation.md
-  - Practice:
-      - Overview: practice/README.md
-      - Exam prep: practice/exam-prep.md
-      - Exercises: practice/exercises.md
-      - Sample texts: practice/sample-texts.md
-      - Translations: practice/translations.md
+  - Listening: listening/README.md
+  - Reading: reading/README.md
+  - Writing: writing/README.md
+  - Speaking: speaking/README.md
+  - Exam: exam/README.md
   - Citizenship:
-      - Overview: citizenship/README.md
+      - Citizenship: citizenship/README.md
       - Politics: citizenship/politics.md
       - History: citizenship/history.md
       - Society: citizenship/society.md
@@ -164,6 +147,7 @@ theme:
   logo: assets/images/flag-circle.svg
 
 plugins:
+  - include-markdown
   - search:
       lang:
         - en

@@ -4,6 +4,15 @@ A curated list of useful resources to learn and practice German, including YouTu
 
 ---
 
+## 🏫 Courses / Community Learning
+
+| Resource                                                                                                               | Type               | Description / Notes                                                                                                                                |
+| ---------------------------------------------------------------------------------------------------------------------- | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Integrationskurse (Germany)](https://www.bamf.de/DE/Themen/Integration/ZugewanderteTeilnehmende/Integrationskurse/integrationskurse-node.html) | Official courses   | Government-sponsored courses for immigrants, covering German language, culture, and civic education. Often include exams for certificates (A1–B1). |
+| Sprachcafés                                         | Community / Meetup | Informal conversation groups to practice German with other learners and native speakers in a social setting. Great for speaking confidence.        |
+
+---
+
 ## 📺 YouTube Channels
 
 | Resource | Description |
