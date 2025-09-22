@@ -27,7 +27,7 @@ A curated list of useful resources to learn and practice German, including YouTu
 | [Vocabeo](https://vocabeo.com/) | App | Vocabulary building with flashcards and spaced repetition. |
 | [Verben App](https://play.google.com/store/apps/details?id=de.verbformen.verben.app) | App | Practice German verb conjugations. |
 | [Der Die Das App](https://play.google.com/store/apps/details?id=com.lubosmikusiak.articuli.derdiedas&hl=de) | App | Practice German noun genders with exercises. |
-|[der-artikel.de](https://der-artikel.de) | Website | A website with clear rules and exercises to practice *der / die / das*, declensions, and German grammar basics. |
+| [Der-artikel.de](https://der-artikel.de) | Website | A website with clear rules and exercises to practice *der / die / das*, declensions, and German grammar basics. |
 | [ChatGPT](https://chat.openai.com/) | Website / App | Practice German conversation, ask grammar questions, and get corrections in real-time. |
 | [Anki](https://apps.ankiweb.net/) | App | Flashcards for vocabulary memorization. Use pre-made German decks. |
 | [Deutsche Welle – Learn German](https://www.dw.com/en/learn-german/s-2469) | Website | Structured lessons, videos, podcasts, and grammar exercises. |

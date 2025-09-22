@@ -1,4 +1,4 @@
-# Idioms
+# 💬 Idioms
 
 A collection of 100+ common German idioms with literal translations, meanings, and examples.
 

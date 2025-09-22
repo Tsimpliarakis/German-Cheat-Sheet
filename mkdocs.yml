@@ -6,7 +6,7 @@ repo_name: Tsimpliarakis/German-Cheat-Sheet/
 docs_dir: docs
 use_directory_urls: true
 
-strict: false
+strict: true
 
 nav:
   - Home: README.md
@@ -58,59 +58,34 @@ nav:
           - Particles: grammar/miscellany/particles.md
           - Prepositions: grammar/miscellany/prepositions.md
   - Vocabulary:
-      - Overview: vocabulary/README.md
-      - Basics: vocabulary/basics.md
-      - Greetings: vocabulary/greetings.md
-      - Introductions: vocabulary/introductions.md
-      - People: vocabulary/people.md
-      - Family: vocabulary/family.md
-      - Friends: vocabulary/friends.md
-      - Jobs: vocabulary/jobs.md
-      - School: vocabulary/school.md
-      - Housing: vocabulary/housing.md
-      - Education: vocabulary/education.md
-      - Technology: vocabulary/technology.md
-      - Computers: vocabulary/computers.md
-      - Internet: vocabulary/internet.md
-      - Cybersecurity: vocabulary/cybersecurity.md
-      - Work: vocabulary/work.md
-      - Travel: vocabulary/travel.md
-      - Airport: vocabulary/airport.md
-      - Train: vocabulary/train.md
-      - Hotel: vocabulary/hotel.md
-      - Restaurant: vocabulary/restaurant.md
-      - Food: vocabulary/food.md
-      - Drink: vocabulary/drink.md
-      - Shopping: vocabulary/shopping.md
-      - Clothing: vocabulary/clothing.md
-      - Colors: vocabulary/colors.md
-      - Numbers: vocabulary/numbers.md
-      - Time: vocabulary/time.md
-      - Dates: vocabulary/dates.md
-      - Weather: vocabulary/weather.md
-      - Nature: vocabulary/nature.md
-      - Animals: vocabulary/animals.md
-      - Hobbies: vocabulary/hobbies.md
-      - Sports: vocabulary/sports.md
-      - Body: vocabulary/body.md
-      - Health: vocabulary/health.md
-      - Healthcare: vocabulary/healthcare.md
-      - Emotions: vocabulary/emotions.md
-      - Common phrases: vocabulary/common-phrases.md
-      - Questions: vocabulary/questions.md
-      - Directions: vocabulary/directions.md
-      - Transportation: vocabulary/transportation.md
-      - Culture: vocabulary/culture.md
-      - Festivals: vocabulary/festivals.md
-      - Law: vocabulary/law.md
-      - Politics: vocabulary/politics.md
-      - Adjectives: vocabulary/adjectives.md
-      - Adverbs: vocabulary/adverbs.md
-      - Pronouns: vocabulary/pronouns.md
-      - Prepositions: vocabulary/prepositions.md
-      - Conjunctions: vocabulary/conjunctions.md
-      - Verbs: vocabulary/verbs.md
-      - Idioms: vocabulary/idioms.md
+      - 📘 Overview: vocabulary/README.md
+      - 📝 Basics: vocabulary/basics.md
+      - 🙋 Greetings: vocabulary/greetings.md
+      - 🧑 People: vocabulary/people.md
+      - 💼 Work: vocabulary/work.md
+      - 🎓 Education: vocabulary/education.md
+      - 🚗 Transportation: vocabulary/transportation.md
+      - ✈️ Travel: vocabulary/travel.md
+      - 🏠 Housing: vocabulary/housing.md
+      - 🍎 Food & Drink: vocabulary/food-drink.md
+      - 🛍️ Clothing: vocabulary/clothing.md
+      - 🏥 Health: vocabulary/health.md
+      - 😊 Emotions: vocabulary/emotions.md
+      - 🐶 Animals: vocabulary/animals.md
+      - 🌿 Nature: vocabulary/nature.md
+      - ☀️ Weather: vocabulary/weather.md
+      - 🔢 Numbers: vocabulary/numbers.md
+      - 🎨 Colors: vocabulary/colors.md
+      - 📅 Time & Date: vocabulary/time-date.md
+      - 📱 Technology: vocabulary/technology.md
+      - 🎭 Culture: vocabulary/culture.md
+      - ⚖️ Law: vocabulary/law.md
+      - 🔧 Verbs: vocabulary/verbs.md
+      - 💬 Idioms: vocabulary/idioms.md
+      - 🎯 Hobbies: vocabulary/hobbies.md
+      - 🚨 Emergency: vocabulary/emergency.md
+      - 💰 Money: vocabulary/money.md
+      - 🌍 Countries: vocabulary/countries.md
   - Listening:
       - Overview: listening/README.md
   - Reading:
