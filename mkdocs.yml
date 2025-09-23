@@ -92,10 +92,8 @@ nav:
   - Exam: exam/README.md
   - Citizenship:
       - Citizenship: citizenship/README.md
-      - Politics: citizenship/politics.md
-      - History: citizenship/history.md
-      - Society: citizenship/society.md
-      - State: citizenship/state.md
+      - General questions: citizenship/general.md
+      - State questions: citizenship/state.md
   - Resources: resources/README.md
 
 markdown_extensions:
