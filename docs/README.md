@@ -26,7 +26,7 @@ A compact, well-organized reference for learners of German. This site collects c
   Formal and informal writing guides, punctuation rules, and text types.
 - 🗣️ [Speaking](speaking/README.md)  
   Pronunciation, phonetics, and practice scenarios to boost confidence in conversations.
-- 📝 [Exam](exam/README.md)  
+- 📝 [Exams](exams/README.md)  
   Exercises, translations, sample texts, and exam preparation materials.
 - 🏛️ [Citizenship](citizenship/README.md)  
   German history, politics, and society — useful for integration courses and official tests.

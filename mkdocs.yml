@@ -89,11 +89,11 @@ nav:
   - Reading: reading/README.md
   - Writing: writing/README.md
   - Speaking: speaking/README.md
-  - Exam: exam/README.md
+  - Exams: exams/README.md
   - Citizenship:
-      - Citizenship: citizenship/README.md
-      - General questions: citizenship/general.md
-      - State questions: citizenship/state.md
+      - 🛂 Citizenship: citizenship/README.md
+      - ❓ General questions: citizenship/general.md
+      - 🗺️ State questions: citizenship/state.md
   - Resources: resources/README.md
 
 markdown_extensions:

@@ -1,4 +1,4 @@
-# 🏳️ State questions
+# 🗺️ State questions
 
 ‼️ In this section you only need to know the questions related to the state you are registered. ‼️
 
