@@ -2,25 +2,25 @@
 
 ---
 
-## Basic Colors
+## 🌟 Basic Colors
 
 | German       | English    | Example Sentence                          |
 |--------------|------------|-------------------------------------------|
-| rot          | red        | *Die Rose ist rot.* (The rose is red.)    |
-| blau         | blue       | *Der Himmel ist blau.* (The sky is blue.) |
-| grün         | green      | *Das Gras ist grün.* (The grass is green.)|
-| gelb         | yellow     | *Die Sonne ist gelb.* (The sun is yellow.)|
-| schwarz      | black      | *Mein Auto ist schwarz.* (My car is black.)|
-| weiß         | white      | *Der Schnee ist weiß.* (The snow is white.)|
-| orange       | orange     | *Die Orange ist orange.* (The orange is orange.)|
-| lila         | purple     | *Die Blume ist lila.* (The flower is purple.)|
-| rosa         | pink       | *Das Kleid ist rosa.* (The dress is pink.)|
-| braun        | brown      | *Der Tisch ist braun.* (The table is brown.)|
-| grau         | gray       | *Die Wolken sind grau.* (The clouds are gray.)|
+| ❤️ rot          | red        | *Die Rose ist rot.* (The rose is red.)    |
+| 💙 blau         | blue       | *Der Himmel ist blau.* (The sky is blue.) |
+| 💚 grün         | green      | *Das Gras ist grün.* (The grass is green.)|
+| 💛 gelb         | yellow     | *Die Sonne ist gelb.* (The sun is yellow.)|
+| 🖤 schwarz      | black      | *Mein Auto ist schwarz.* (My car is black.)|
+| 🤍 weiß         | white      | *Der Schnee ist weiß.* (The snow is white.)|
+| 🧡 orange       | orange     | *Die Orange ist orange.* (The orange is orange.)|
+| 💜 lila         | purple     | *Die Blume ist lila.* (The flower is purple.)|
+| 🩷 rosa         | pink       | *Das Kleid ist rosa.* (The dress is pink.)|
+| 🤎 braun        | brown      | *Der Tisch ist braun.* (The table is brown.)|
+| 🩶 grau         | gray       | *Die Wolken sind grau.* (The clouds are gray.)|
 
 ---
 
-## Shades and Nuances
+## 🌈 Shades and Nuances
 
 | German           | English          | Example Sentence                          |
 |------------------|------------------|-------------------------------------------|
@@ -33,7 +33,7 @@
 
 ---
 
-## Idiomatic Expressions with Colors
+## 💬 Idiomatic Expressions with Colors
 
 | German Expression       | English Equivalent       | Meaning/Usage                          |
 |-------------------------|--------------------------|----------------------------------------|
