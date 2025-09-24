@@ -50,7 +50,7 @@ The German alphabet is similar to English but includes **4 extra letters**: **ä
 
 ---
 
-## 💡 Tips for Learners
+## 💡 Tips
 - **ä = ae | ö = oe |  ü = ue**
 - **ß vs. ss**: Use *ß* after long vowels (e.g., *Fuß*), and *ss* after short vowels (e.g., *Kuss*).
 - **Umlaute (ä, ö, ü)** change word meanings (e.g., ***schon*** (already) → ***schön*** (beautiful)).
