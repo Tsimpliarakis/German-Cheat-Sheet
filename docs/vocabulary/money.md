@@ -1,5 +1,7 @@
 # 💰 Money (Geld)
 
+---
+
 This page contains vocabulary related to **money**, including **currencies**, **banking**, **payment methods**, **financial terms**, and **shopping phrases** in German.
 
 ---

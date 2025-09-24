@@ -1,5 +1,7 @@
 # 👋 Greetings (Begrüßungen)
 
+---
+
 This page covers vocabulary related to **greetings**, including **basic greetings**, **formal greetings**, **informal greetings**, **farewells**, **introductions**, and **polite phrases** in German.
 
 ---

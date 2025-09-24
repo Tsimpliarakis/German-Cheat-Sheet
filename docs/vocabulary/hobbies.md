@@ -1,5 +1,7 @@
 # 🎨 Hobbies (Hobbys)
 
+---
+
 This page contains vocabulary related to **hobbies**, including **leisure activities**, **sports**, **creative activities**, **music**, **games**, and **collecting** in German.
 
 ---

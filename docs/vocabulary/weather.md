@@ -1,5 +1,7 @@
 # ☀️ Weather (Wetter)
 
+---
+
 This page covers vocabulary related to **weather conditions**, **temperature**, and **natural phenomena** in German.
 
 ---

@@ -1,5 +1,7 @@
 # German Learning Resources
 
+--
+
 A curated list of useful resources to learn and practice German, including YouTube channels, apps, websites, and more.
 
 ---
@@ -73,3 +75,5 @@ A curated list of useful resources to learn and practice German, including YouTu
 > 📝 **Track new vocabulary** — use Anki or a notebook to capture and memorize words.  
 > 📚 **Read children’s books** — simple stories make vocabulary and sentence patterns stick.  
 > ⏳ **Stay consistent** — even 15–30 minutes per day with good resources pays off quickly.
+
+---

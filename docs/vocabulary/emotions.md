@@ -1,5 +1,7 @@
 # 😊 Emotions (Gefühle)
 
+---
+
 This page covers vocabulary related to **emotions**, including **positive emotions**, **negative emotions**, **states of mind**, **reactions**, **expression of emotions**, and **emotional phrases** in German.
 
 ---

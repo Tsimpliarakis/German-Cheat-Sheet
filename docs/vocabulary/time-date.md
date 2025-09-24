@@ -1,5 +1,7 @@
 # 📅 Time & Date (Zeit & Datum)
 
+---
+
 This page covers vocabulary related to **time**, **days**, **months**, **seasons**, and **dates** in German.
 
 ---

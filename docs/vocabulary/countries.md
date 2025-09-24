@@ -1,5 +1,7 @@
 # 🌍 Countries (Länder)
 
+---
+
 This page covers vocabulary related to **countries**, **nationalities**, **continents**, **capitals**, and **geographical terms** in German.
 
 ---

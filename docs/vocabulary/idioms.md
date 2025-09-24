@@ -1,5 +1,7 @@
 # 💬 Idioms
 
+---
+
 A collection of 100+ common German idioms with literal translations, meanings, and examples.
 
 ---
@@ -112,4 +114,3 @@ A collection of 100+ common German idioms with literal translations, meanings, a
 | 104 | Es ist Hose wie Jacke                       | It’s pants like jacket                           | It doesn’t matter; it makes no difference                      | Soll ich das blaue oder das schwarze Hemd nehmen? – Ach, es ist Hose wie Jacke, nimm, was dir gefällt. |
 
 ---
-

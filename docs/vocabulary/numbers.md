@@ -1,5 +1,7 @@
 # 🔢 Numbers (Zahlen)
 
+---
+
 This page covers **cardinal numbers**, **ordinal numbers**, and **other numerical expressions** in German.
 
 ---

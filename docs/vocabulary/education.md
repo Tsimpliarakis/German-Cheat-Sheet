@@ -1,5 +1,7 @@
 # 🎓 Education (Bildung)
 
+---
+
 This page contains vocabulary related to **education**, including **types of schools**, **subjects**, **higher education**, **examinations**, **learning materials**, and **school activities** in German.
 
 ---

@@ -1,5 +1,7 @@
 # 🚨 Emergencies (Notfälle)
 
+---
+
 This page covers **emergency vocabulary** in German, including **emergency numbers**, **common phrases**, **medical emergencies**, **accidents**, **fire emergencies**, and **police-related situations**.
 
 ---

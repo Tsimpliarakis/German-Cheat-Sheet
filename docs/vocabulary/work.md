@@ -1,5 +1,7 @@
 # 💼 Work (Arbeit)
 
+---
+
 This page covers vocabulary related to **work**, including **jobs**, **workplace terms**, **office supplies**, **meetings**, **business phrases**, and **employment terms** in German.
 
 ---

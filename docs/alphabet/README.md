@@ -1,4 +1,7 @@
 # The German Alphabet (Das Deutsche Alphabet)
+
+---
+
 The German alphabet is similar to English but includes **4 extra letters**: **ä, ö, ü, ß**.
 
 ---

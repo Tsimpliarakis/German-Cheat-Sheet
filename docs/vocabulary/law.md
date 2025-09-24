@@ -1,5 +1,7 @@
 # ⚖️ Law (Recht)
 
+---
+
 This page covers vocabulary related to **law**, including **legal system**, **court**, **laws and regulations**, **crimes**, **legal professions**, and **legal phrases** in German.
 
 ---

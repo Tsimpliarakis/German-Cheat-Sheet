@@ -2,6 +2,10 @@
 
 ---
 
+This page covers vocabulary related to **colors**, including **basic colors**, **shades and nuances**, and **idiomatic expressions** in German.
+
+---
+
 ## 🌟 Basic Colors
 
 | German       | English    | Example Sentence                          |

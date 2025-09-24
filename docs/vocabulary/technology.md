@@ -1,5 +1,7 @@
 # 💻 Technology (Technologie)
 
+---
+
 This page covers vocabulary related to **technology**, including **devices**, **software**, **internet**, **social media**, **technical terms**, and **technology phrases** in German.
 
 ---

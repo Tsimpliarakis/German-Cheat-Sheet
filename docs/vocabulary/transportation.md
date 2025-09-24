@@ -1,5 +1,7 @@
 # 🚗 Transportation (Transport / Verkehr)
 
+---
+
 This page covers vocabulary related to **transportation**, including **vehicles**, **public transport**, **travel phrases**, **road signs**, and **directions** in German.
 
 ---

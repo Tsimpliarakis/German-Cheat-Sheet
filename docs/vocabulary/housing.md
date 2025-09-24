@@ -1,5 +1,7 @@
 # 🏠 Housing (Wohnen)
 
+---
+
 This page covers vocabulary related to **housing**, including **types of housing**, **rooms**, **furniture**, **household items**, **renting and buying**, and **maintenance**.
 
 ---

@@ -1,5 +1,7 @@
 # 🎭 Culture (Kultur)
 
+---
+
 This page covers vocabulary related to **culture**, including **traditions**, **festivals**, **art**, **music**, **literature**, and **cultural phrases** in German.
 
 ---

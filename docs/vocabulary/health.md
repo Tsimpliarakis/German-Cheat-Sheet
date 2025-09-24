@@ -1,5 +1,7 @@
 # 🏥 Health (Gesundheit)
 
+---
+
 This page covers vocabulary related to **physical and mental health**, **body parts**, **symptoms**, **medical professionals**, and **common phrases** for visiting a doctor or discussing health in German.
 
 ---

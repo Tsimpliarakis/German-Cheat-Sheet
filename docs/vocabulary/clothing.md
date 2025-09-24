@@ -1,5 +1,7 @@
 # 👕 Clothing (Kleidung)
 
+---
+
 This page contains vocabulary related to **clothing**, including **outerwear**, **underwear**, **shoes**, **accessories**, **seasonal clothing**, and **clothing verbs** in German.
 
 ---

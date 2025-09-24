@@ -1,5 +1,7 @@
 # 📝 Basics (Grundlagen)
 
+---
+
 This page covers **essential beginner vocabulary** in German, including **pronouns**, **common phrases**, **basic verbs**, **question words**, **adjectives**, and **prepositions**.
 
 ---

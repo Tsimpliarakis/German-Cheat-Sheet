@@ -1,5 +1,7 @@
 # 🌿 Nature (Natur)
 
+---
+
 This page covers vocabulary related to **nature**, including **landscapes**, **plants**, **trees**, **flowers**, **mountains**, **rivers**, **weather phenomena**, and **natural elements** in German.
 
 ---

@@ -1,5 +1,7 @@
 # 🔧 Verbs (Verben)
 
+---
+
 ## Common German Verbs
 
 | German (Infinitive) | English          | Present (ich) | Past (ich) | Perfect (ich habe) | Example Sentence                          |
@@ -98,3 +100,5 @@
 | sich entscheiden    | to decide        | entscheide mich| entschied mich | habe mich entschieden | *Ich entscheide mich für Kaffee.* (I decide on coffee.)|
 | sich waschen        | to wash oneself  | wasche mich   | wusch mich | habe mich gewaschen | *Ich wasche mich morgens.* (I wash myself in the morning.)|
 | sich anziehen       | to get dressed   | ziehe mich an | zog mich an| habe mich angezogen | *Ich ziehe mich schnell an.* (I get dressed quickly.)|
+
+---

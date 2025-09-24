@@ -1,5 +1,7 @@
 # 🍎 Food & Drink (Essen & Trinken)
 
+---
+
 This page contains vocabulary related to **food and drink**, including **groceries**, **beverages**, **meals**, **cooking**, **restaurants**, and **food shopping** in German.
 
 ---

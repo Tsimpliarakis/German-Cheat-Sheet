@@ -1,5 +1,7 @@
 # Vocabulary 📚
 
+---
+
 This folder contains themed vocabulary lists with English translations and example sentences to help you practice German in common situations.
 
 ---
@@ -40,3 +42,5 @@ This folder contains themed vocabulary lists with English translations and examp
 > - Read aloud and repeat example sentences.
 > - Note the article for nouns (`der`, `die`, `das`) — they're included where relevant.
 > - Use the verbs list to build basic sentences with vocabulary from other sections.
+
+---

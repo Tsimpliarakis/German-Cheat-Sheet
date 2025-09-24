@@ -1,5 +1,7 @@
 # 🧑 People (Menschen)
 
+---
+
 This page covers vocabulary related to **people**, including **family members**, **professions**, **personal traits**, **relationships**, and **descriptions** in German.
 
 ---

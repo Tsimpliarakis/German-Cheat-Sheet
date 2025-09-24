@@ -1,5 +1,7 @@
 # 🐶 Animals (Tiere)
 
+---
+
 This page covers vocabulary related to **animals**, including **pets**, **wild animals**, **farm animals**, **birds**, **insects**, and **sea creatures** in German.
 
 ---
