@@ -1,6 +1,6 @@
 # German Learning Resources
 
---
+---
 
 A curated list of useful resources to learn and practice German, including YouTube channels, apps, websites, and more.
 
