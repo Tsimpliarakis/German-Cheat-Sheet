@@ -802,7 +802,7 @@
 - [ ] Gerhard Schröder
 - [ ] Angela Merkel
 - [ ] Ursula von der Leyen
-- [ ] Friedrich Merz
+- [x] Friedrich Merz
 
 ---
 
