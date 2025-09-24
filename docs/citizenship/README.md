@@ -82,3 +82,8 @@ It promotes integration and helps new citizens participate actively in German so
 * Failing the test means you can **retake it**, usually after preparation 🔄
 
 ---
+
+> Note: The wording of individual questions and answers may differ slightly from the original questions used.
+> The image descriptions are provided from the perspective of the person viewing the image.
+
+---

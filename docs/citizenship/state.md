@@ -16,7 +16,6 @@
 |--------|--------|--------|--------|
 | ![Bild 1](../assets/images/baden-wuerttemberg-wappen.jpeg) | ![Bild 2](../assets/images/thueringen-wappen.png) | ![Bild 3](../assets/images/sachsen-anhalt-wappen.png) | ![Bild 4](../assets/images/hamburg-wappen.png) |
 
-
 - [x] Bild 1
 - [ ] Bild 2
 - [ ] Bild 3
