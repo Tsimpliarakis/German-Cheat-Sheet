@@ -67,13 +67,13 @@ A curated list of useful resources to learn and practice German, including YouTu
 
 ---
 
-> 💡 **Pro Tips**
+> ## 💡 **Tips**
 >
-> 🎬 **Always use subtitles** at your level — German subtitles boost listening *and* reading skills together.  
-> 🗣️ **Repeat and shadow** — listen to a sentence and echo it aloud exactly as you hear it.  
-> 🎧 **Mix content types** — combine videos, podcasts, and reading to cover all skills.  
-> 📝 **Track new vocabulary** — use Anki or a notebook to capture and memorize words.  
-> 📚 **Read children’s books** — simple stories make vocabulary and sentence patterns stick.  
-> ⏳ **Stay consistent** — even 15–30 minutes per day with good resources pays off quickly.
+> - 🎬 **Always use subtitles** at your level — German subtitles boost listening *and* reading skills together.  
+> - 🗣️ **Repeat and shadow** — listen to a sentence and echo it aloud exactly as you hear it.  
+> - 🎧 **Mix content types** — combine videos, podcasts, and reading to cover all skills.  
+> - 📝 **Track new vocabulary** — use Anki or a notebook to capture and memorize words.  
+> - 📚 **Read children’s books** — simple stories make vocabulary and sentence patterns stick.  
+> - ⏳ **Stay consistent** — even 15–30 minutes per day with good resources pays off quickly.
 
 ---

@@ -6,7 +6,7 @@ This folder contains themed vocabulary lists with English translations and examp
 
 ---
 
-## Topics
+## 📊 Topics
 
 - 📝 [Basics](basics.md) – Common words and phrases for beginners.
 - 🙋 [Greetings](greetings.md) – Words and phrases for social greetings.
@@ -37,8 +37,7 @@ This folder contains themed vocabulary lists with English translations and examp
 
 ---
 
-> ## Quick tips
->
+> ## 💡 **Tips**
 > - Read aloud and repeat example sentences.
 > - Note the article for nouns (`der`, `die`, `das`) — they're included where relevant.
 > - Use the verbs list to build basic sentences with vocabulary from other sections.
