@@ -67,6 +67,14 @@ A curated list of useful resources to learn and practice German, including YouTu
 
 ---
 
+## 📖 Books
+
+| Resource | Disclaimer |
+|----------|---------------------|
+| books    | I am not affiliated with the referenced resource and I assume no responsibility for its content. |
+
+---
+
 > ## 💡 **Tips**
 >
 > - 🎬 **Always use subtitles** at your level — German subtitles boost listening *and* reading skills together.  
