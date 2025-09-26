@@ -1,4 +1,4 @@
-# Vocabulary 📚
+# 📘 Vocabulary (Vokabeln/Wortschatz)
 
 ---
 

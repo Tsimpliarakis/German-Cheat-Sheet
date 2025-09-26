@@ -6,13 +6,13 @@
 
 ---
 
-## Quick Status
+## ⚡ Quick Status
 - **What's here**: Basic outline or placeholder.
 - **What's needed**: Full content, examples, tables—your expertise!
 
 ---
 
-## Want to Help?
+## 🤝 Want to Help?
 If you have notes, examples, or ideas for this topic, we'd love your input!
 
 - Fork the repo

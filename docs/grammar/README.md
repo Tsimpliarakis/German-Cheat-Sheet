@@ -1,4 +1,4 @@
-# Grammar — Quick Study Guide
+# 📖 Grammar (Grammatik)
 
 Welcome to the Grammar section of this German cheat sheet. This folder collects compact, practical explanations and links to the most important grammar topics you need for beginner to intermediate learning.
 

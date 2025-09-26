@@ -1,4 +1,4 @@
-# German Learning Resources
+# 📚 Resources (Ressourcen)
 
 ---
 
@@ -6,7 +6,7 @@ A curated list of useful resources to learn and practice German, including YouTu
 
 ---
 
-## 🏫 Courses / Community Learning
+## 🏫 Courses / Community
 
 | Resource                                                                                                               | Type               | Description / Notes                                                                                                                                |
 | ---------------------------------------------------------------------------------------------------------------------- | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------- |

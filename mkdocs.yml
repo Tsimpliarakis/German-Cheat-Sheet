@@ -9,55 +9,55 @@ use_directory_urls: true
 strict: true
 
 nav:
-  - Home: README.md
-  - Alphabet: alphabet/README.md
-  - Grammar:
-      - Grammar: grammar/README.md
-      - Articles:
+  - 🏠 Home: README.md
+  - 🔤 Alphabet: alphabet/README.md
+  - 📖 Grammar:
+      - 📖 Grammar: grammar/README.md
+      - 📑 Articles:
           - Articles: grammar/articles/README.md
           - Definite: grammar/articles/definite.md
           - Indefinite: grammar/articles/indefinite.md
           - Negative: grammar/articles/negative.md
           - No article: grammar/articles/no-article.md
-      - Nouns: 
+      - 📝 Nouns: 
           - Nouns: grammar/nouns/README.md
           - Cases: grammar/nouns/cases.md
           - Declension: grammar/nouns/declension.md
           - Gender: grammar/nouns/gender.md
           - Plurals: grammar/nouns/plurals.md
-      - Verbs:
+      - 🏃 Verbs:
           - Verbs: grammar/verbs/README.md
           - Conjugation: grammar/verbs/conjugation.md
           - Irregular verbs: grammar/verbs/irregular-verbs.md
           - Modal verbs: grammar/verbs/modal-verbs.md
           - Passive voice: grammar/verbs/passive-voice.md
           - Tenses: grammar/verbs/tenses.md
-      - Adjectives:
+      - 🎨 Adjectives:
           - Adjectives: grammar/adjectives/README.md
           - Endings: grammar/adjectives/adjective-endings.md
           - Comparison: grammar/adjectives/comparison.md
           - Declension: grammar/adjectives/declension.md
-      - Pronouns:
+      - 🙋 Pronouns:
           - Pronouns: grammar/pronouns/README.md
           - Demonstrative: grammar/pronouns/demonstrative.md
           - Personal: grammar/pronouns/personal.md
           - Possessive: grammar/pronouns/possessive.md
           - Reflexive: grammar/pronouns/reflexive.md
           - Relative: grammar/pronouns/relative.md
-      - Syntax:
+      - 🏗️ Syntax:
           - Syntax: grammar/syntax/README.md
           - Main clauses: grammar/syntax/main-clauses.md
           - Negation: grammar/syntax/negation.md
           - Questions: grammar/syntax/questions.md
           - Subordinate clauses: grammar/syntax/subordinate-clauses.md
           - Word order: grammar/syntax/word-order.md
-      - Miscellany:
+      - 🎲 Miscellany:
           - Miscellany: grammar/miscellany/README.md
           - Adverbs: grammar/miscellany/adverbs.md
           - Conjunctions: grammar/miscellany/conjunctions.md
           - Particles: grammar/miscellany/particles.md
           - Prepositions: grammar/miscellany/prepositions.md
-  - Vocabulary:
+  - 📘 Vocabulary:
       - 📘 Vocabulary: vocabulary/README.md
       - 📝 Basics: vocabulary/basics.md
       - 🙋 Greetings: vocabulary/greetings.md
@@ -85,16 +85,18 @@ nav:
       - 🚨 Emergency: vocabulary/emergency.md
       - 💰 Money: vocabulary/money.md
       - 🌍 Countries: vocabulary/countries.md
-  - Listening: listening/README.md
-  - Reading: reading/README.md
-  - Writing: writing/README.md
-  - Speaking: speaking/README.md
-  - Exams: exams/README.md
-  - Citizenship:
+  - 📝 Exam:
+      - 📝 Exam: exam/README.md
+      - B1: 
+          - 👂 Listening: exam/B1/listening.md
+          - 👁️ Reading: exam/B1/reading.md
+          - ✍️ Writing: exam/B1/writing.md
+          - 🗣️ Speaking: exam/B1/speaking.md
+  - 🛂 Citizenship:
       - 🛂 Citizenship: citizenship/README.md
       - ❓ General questions: citizenship/general.md
       - 🗺️ State questions: citizenship/state.md
-  - Resources: resources/README.md
+  - 📚 Resources: resources/README.md
 
 markdown_extensions:
   - toc:

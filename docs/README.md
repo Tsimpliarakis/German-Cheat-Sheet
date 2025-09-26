@@ -1,4 +1,4 @@
-# Willkommen! 👋
+# 👋 Willkommen!
 
 ---
 
@@ -18,16 +18,8 @@ A compact, well-organized reference for learners of German. This site collects c
   Covers the core building blocks: articles, nouns, verbs, adjectives, pronouns, syntax, and more.
 - 🗂️ [Vocabulary](vocabulary/README.md)  
   Themed word lists for everyday life: people, travel, work, food, technology, politics, and beyond.
-- 🎧 [Listening](listening/README.md)  
-  Improve comprehension with exercises and tips for practicing German listening skills.
-- 📖 [Reading](reading/README.md)  
-  Strategies, examples, and resources to strengthen your German reading ability.
-- ✍️ [Writing](writing/README.md)  
-  Formal and informal writing guides, punctuation rules, and text types.
-- 🗣️ [Speaking](speaking/README.md)  
-  Pronunciation, phonetics, and practice scenarios to boost confidence in conversations.
-- 📝 [Exams](exams/README.md)  
-  Exercises, translations, sample texts, and exam preparation materials.
+- 📝 [Exam](exam/README.md)  
+  Exercises, translations, sample texts, and exam preparation materials for listening, reading, writing and speaking.
 - 🏛️ [Citizenship](citizenship/README.md)  
   German history, politics, and society — useful for integration courses and official tests.
 - 🔗 [Resources](resources/README.md)  

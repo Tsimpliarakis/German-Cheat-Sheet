@@ -34,30 +34,30 @@ It promotes integration and helps new citizens participate actively in German so
 
 ## **📚 Topics Covered**
 
-### 1. **Politics and Democracy** 🏛️
+### 1. **🏛️ Politics and Democracy**
 
-* Basic principles of the German constitution (Grundgesetz) ⚖️
-* Rights and duties of citizens 🛡️
-* Federal government structure, Bundestag, Bundesrat 🏢
-* Political parties and their roles 🗳️
+* ⚖️ Basic principles of the German constitution (Grundgesetz)
+* 🛡️ Rights and duties of citizens
+* 🏢 Federal government structure, Bundestag, Bundesrat
+* 🗳️ Political parties and their roles
 
-### 2. **History and Responsibility** 🕰️
+### 2. **🕰️ History and Responsibility**
 
-* Key historical events in Germany (e.g., Weimar Republic, Nazi era, World Wars) 📜
-* Post-war Germany and reunification ✌️
-* Germany in the EU and international relations 🌍
+* 📜 Key historical events in Germany (e.g., Weimar Republic, Nazi era, World Wars)
+* ✌️ Post-war Germany and reunification
+* 🌍 Germany in the EU and international relations
 
-### 3. **Society and Living in Germany** 🏠
+### 3. **🏠 Society and Living in Germany** 
 
-* Social security system, healthcare, and education 🏥🎓
-* Law and order, justice system ⚖️🚓
-* Everyday life and cultural norms ☕🎉
-* Environmental awareness and sustainability 🌱♻️
+* 🏥🎓 Social security system, healthcare, and education
+* ⚖️🚓 Law and order, justice system
+* ☕🎉 Everyday life and cultural norms
+* 🌱♻️ Environmental awareness and sustainability
 
-### 4. **State-Specific Questions** 🗺️
+### 4. **🗺️ State-Specific Questions** 
 
-* Each Bundesland has **10 additional questions** specific to its history, culture, and government 🏰
-* Applicants answer 3 of these questions during the test ❓
+* 🏰 Each Bundesland has **10 additional questions** specific to its history, culture, and government 
+* ❓ Applicants answer 3 of these questions during the test, only for the state that they are registered.
 
 ---
 

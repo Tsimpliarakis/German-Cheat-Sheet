@@ -1,4 +1,4 @@
-# The German Alphabet (Das Deutsche Alphabet)
+# 🔤 The German Alphabet (Das Deutsche Alphabet)
 
 ---
 
