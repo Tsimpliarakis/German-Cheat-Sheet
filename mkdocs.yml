@@ -93,11 +93,11 @@ nav:
           - 👁️ Reading: exam/B1/reading.md
           - ✍️ Writing: exam/B1/writing.md
           - 🗣️ Speaking: exam/B1/speaking.md
-  - 🛂 Citizenship:
-      - 🛂 Citizenship: citizenship/README.md
+  - 🪪 Citizenship:
+      - 🪪 Citizenship: citizenship/README.md
       - ❓ General questions: citizenship/general.md
       - 🗺️ State questions: citizenship/state.md
-  - 📚 Resources: resources/README.md
+  - 🔗 Resources: resources/README.md
 
 markdown_extensions:
   - toc:
@@ -161,3 +161,5 @@ extra:
       link: https://github.com/tsimpliarakis
   author: Michail Tsimpliarakis
   keywords: german, cheat sheet, grammar, vocabulary, phrases, learning, language, german-english, english-german, deutsch, deutsch-englisch, deutsch lernen, learn german
+
+copyright: <a href="https://github.com/Tsimpliarakis/German-Cheat-Sheet/?tab=License-1-ov-file#readme"> Content licensed under CC BY-NC-SA 4.0 </a>

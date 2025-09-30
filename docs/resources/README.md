@@ -1,4 +1,4 @@
-# 📚 Resources (Ressourcen)
+# 🔗 Resources (Ressourcen)
 
 ---
 
