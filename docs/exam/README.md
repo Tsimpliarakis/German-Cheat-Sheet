@@ -3,7 +3,7 @@
 ---
 
 This folder contains resources and practice material for different **German language exam levels**.  
-Each exam level (A1, A2, B1, B2, C1, C2) is organized into four main skill areas:
+Each exam level (A1, A2, [B1](./B1/README.md), B2, C1, C2) is organized into four main skill areas:
 
 ### 👂 Listening
 - Audio files (e.g., dialogues, interviews, news)

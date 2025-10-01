@@ -2,6 +2,10 @@
 
 ---
 
+![Alphabet banner](../assets/images/alphabet-banner.png)
+
+---
+
 The German alphabet is similar to English but includes **4 extra letters**: **ä, ö, ü, ß**.
 
 ---

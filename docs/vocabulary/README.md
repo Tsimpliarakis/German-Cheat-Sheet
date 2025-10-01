@@ -2,6 +2,10 @@
 
 ---
 
+![Vocabulary banner](../assets/images/vocabulary-banner.png)
+
+---
+
 This folder contains themed vocabulary lists with English translations and example sentences to help you practice German in common situations.
 
 ---
