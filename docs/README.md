@@ -45,12 +45,12 @@ German is an **official language** in six European countries, forming the core o
 
 | Country | Status |
 | :--- | :--- |
-| **Germany** | Official |
-| **Austria** | Official |
-| **Switzerland** | Co-Official (along with French and Italian) |
-| **Liechtenstein** | Official |
-| **Luxembourg** | Co-Official (along with French and Luxembourgish) |
-| **Belgium** | Co-Official (German-speaking Community) |
+| 🇩🇪 **Germany** | Official |
+| 🇦🇹 **Austria** | Official |
+| 🇱🇮 **Liechtenstein** | Official |
+| 🇨🇭 **Switzerland** ❤️ | Co-Official (along with French and Italian) |
+| 🇱🇺 **Luxembourg** | Co-Official (along with French and Luxembourgish) |
+| 🇧🇪 **Belgium** | Co-Official (German-speaking Community) |
 
 It also holds recognized regional or minority language status in several other countries, including **Italy (South Tyrol)**, **Poland**, and **Denmark**.
 

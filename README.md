@@ -51,7 +51,7 @@ To build the site locally for preview or testing:
 
 ```
 pip install -r requirements.txt
-mkdocs serve
+mkdocs serve (--livereload)
 ```
 
 Or to produce the static site output:
