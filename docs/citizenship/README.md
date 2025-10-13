@@ -1,4 +1,4 @@
-# **📝 German Naturalization Test (Einbürgerungstest)**
+# 📝 German Naturalization Test (Einbürgerungstest)
 
 ---
 

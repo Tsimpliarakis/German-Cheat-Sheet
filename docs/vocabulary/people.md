@@ -81,20 +81,23 @@ This page covers vocabulary related to **people**, including **family members**,
 
 ## ❤️ Relationships
 
-| German                     | English          | Example Sentence                          |
-|----------------------------|------------------|-------------------------------------------|
-| **der** *Freund* (*pl.* Freunde) | friend (male) | *Mein Freund heißt Tom.* (My friend is named Tom.) |
-| **die** *Freundin* (*pl.* Freundinnen) | friend (female) | *Meine Freundin heißt Lisa.* (My friend is named Lisa.) |
-| **der** *Partner* (*pl.* Partner) | partner (male) | *Mein Partner und ich reisen gern.* (My partner and I like to travel.) |
-| **die** *Partnerin* (*pl.* Partnerinnen) | partner (female) | *Meine Partnerin arbeitet im Krankenhaus.* (My partner works in the hospital.) |
-| **der** *Ehemann* (*pl.* Ehemänner) | husband | *Mein Ehemann und ich sind seit 10 Jahren verheiratet.* (My husband and I have been married for 10 years.) |
-| **die** *Ehefrau* (*pl.* Ehefrauen) | wife   | *Meine Ehefrau und ich haben zwei Kinder.* (My wife and I have two children.) |
-| **der** *Kollege* (*pl.* Kollegen) | colleague (male) | *Mein Kollege hilft mir bei der Arbeit.* (My colleague helps me at work.) |
-| **die** *Kollegin* (*pl.* Kolleginnen) | colleague (female) | *Meine Kollegin ist sehr nett.* (My colleague is very nice.) |
-| **der** *Nachbar* (*pl.* Nachbarn) | neighbor (male) | *Mein Nachbar hat einen Hund.* (My neighbor has a dog.) |
-| **die** *Nachbarin* (*pl.* Nachbarinnen) | neighbor (female) | *Meine Nachbarin backt oft Kuchen.* (My neighbor often bakes cakes.) |
-| **der** *Bekannte* (*pl.* Bekannte) | acquaintance (male) | *Ich treffe einen Bekannten.* (I am meeting an acquaintance.) |
-| **die** *Bekannte* (*pl.* Bekannte) | acquaintance (female) | *Meine Bekannte arbeitet in einer Bank.* (My acquaintance works in a bank.) |
+| German                                   | English               | Example Sentence                                                                                           |
+| ---------------------------------------- | --------------------- | ---------------------------------------------------------------------------------------------------------- |
+| **der** *Freund* (*pl.* Freunde)         | friend (male)         | *Mein Freund heißt Tom.* (My friend is named Tom.)                                                         |
+| **die** *Freundin* (*pl.* Freundinnen)   | friend (female)       | *Meine Freundin heißt Lisa.* (My friend is named Lisa.)                                                    |
+| **der** *Partner* (*pl.* Partner)        | partner (male)        | *Mein Partner und ich reisen gern.* (My partner and I like to travel.)                                     |
+| **die** *Partnerin* (*pl.* Partnerinnen) | partner (female)      | *Meine Partnerin arbeitet im Krankenhaus.* (My partner works in the hospital.)                             |
+| **der** *Ehemann* (*pl.* Ehemänner)      | husband               | *Mein Ehemann und ich sind seit 10 Jahren verheiratet.* (My husband and I have been married for 10 years.) |
+| **die** *Ehefrau* (*pl.* Ehefrauen)      | wife                  | *Meine Ehefrau und ich haben zwei Kinder.* (My wife and I have two children.)                              |
+| **der** *Kollege* (*pl.* Kollegen)       | colleague (male)      | *Mein Kollege hilft mir bei der Arbeit.* (My colleague helps me at work.)                                  |
+| **die** *Kollegin* (*pl.* Kolleginnen)   | colleague (female)    | *Meine Kollegin ist sehr nett.* (My colleague is very nice.)                                               |
+| **der** *Nachbar* (*pl.* Nachbarn)       | neighbor (male)       | *Mein Nachbar hat einen Hund.* (My neighbor has a dog.)                                                    |
+| **die** *Nachbarin* (*pl.* Nachbarinnen) | neighbor (female)     | *Meine Nachbarin backt oft Kuchen.* (My neighbor often bakes cakes.)                                       |
+| **der** *Bekannte* (*pl.* Bekannte)      | acquaintance (male)   | *Ich treffe einen Bekannten.* (I am meeting an acquaintance.)                                              |
+| **die** *Bekannte* (*pl.* Bekannte)      | acquaintance (female) | *Meine Bekannte arbeitet in einer Bank.* (My acquaintance works in a bank.)                                |
+| **die** *Braut* (*pl.* Bräute)           | bride                 | *Die Braut trägt ein schönes  Hochzeitskleid / Brautkleid.* (The bride is wearing a beautiful wedding dress.)                |
+| **der** *Bräutigam* (*pl.* Bräutigame)   | groom                 | *Der Bräutigam wartet nervös vor der Kirche.* (The groom is waiting nervously in front of the church.)     |
+
 
 ---
 
