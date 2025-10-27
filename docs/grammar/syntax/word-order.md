@@ -1,4 +1,4 @@
-# Word Order in German
+# Word Order (Wortstellung)
 
 German word order is flexible compared to English, but it follows clear rules. The most important concept: **the verb must be in the second position in main clauses** (V2 rule). Everything else builds around this.
 
@@ -6,112 +6,87 @@ German word order is flexible compared to English, but it follows clear rules. T
 
 ## 1. The V2 Rule (Verb in Second Position)
 
-In main clauses, the **conjugated verb** always comes in the second slot, no matter what comes first.
+In a main clause (a normal statement), the **conjugated verb** always comes in the **second "idea" or slot**.
 
-* **Subject first:**
+What comes in the first slot doesn't matter. If the subject isn't in the first slot, it must move to the third slot, right after the verb. This is called **inversion**.
 
-  * *Ich gehe heute ins Kino.*
-    (I am going to the cinema today.)
-* **Time first:**
+* **Position 1: Subject**
+    * *Ich* (1) **gehe** (2) *heute ins Kino.*
+    * (I am going to the cinema today.)
 
-  * *Heute gehe ich ins Kino.*
-    (Today I am going to the cinema.)
-* **Place first:**
+* **Position 1: Time** (Inversion)
+    * *Heute* (1) **gehe** (2) *ich ins Kino.*
+    * (Today I am going to the cinema.)
 
-  * *Ins Kino gehe ich heute.*
-    (To the cinema I am going today.)
+* **Position 1: Place** (Inversion)
+    * *Ins Kino* (1) **gehe** (2) *ich heute.*
+    * (To the cinema I am going today.)
 
-👉 Only **one element** may stand before the verb.
+👉 **Common Pitfall:** `❌ Heute ich gehe...` This is the #1 mistake. It must be `Heute gehe ich...`
 
 ---
 
 ## 2. Sentence Brackets (Satzklammer)
 
-German splits the verb into a **conjugated part** and a **non-conjugated part** (infinitive, past participle, separable prefix). These form a “bracket” around the sentence.
+If the verb has two parts (e.g., perfect tense, modal verbs, separable verbs), the **conjugated part** stays in **Position 2**, and the **second part** (infinitive, past participle) moves to the **very end**.
 
-* *Ich **habe** gestern einen Film **gesehen**.*
-* *Er **will** morgen nach Berlin **fahren**.*
-* *Sie **steht** jeden Tag um 7 Uhr **auf**.*
+This creates a "bracket" or *Satzklammer* around the rest of the sentence.
 
----
-
-## 3. Position of Subject, Objects, and Other Elements
-
-* **Subject** usually right after the verb if it’s not in position 1.
-* **Pronouns** come before nouns.
-* **Accusative** usually before **dative**, unless the dative is a pronoun.
-
-Examples:
-
-* *Ich gebe dem Mann ein Buch.* (S–V–IO–DO)
-* *Ich gebe es dem Mann.* (S–V–DO pronoun–IO)
-* *Ich gebe dem Mann es.* ❌ (sounds wrong)
+* **Perfect Tense:**
+    * *Ich **habe** gestern einen Film **gesehen**.* (I saw a film yesterday.)
+* **Modal Verb:**
+    * *Er **will** morgen nach Berlin **fahren**.* (He wants to drive to Berlin tomorrow.)
+* **Separable Verb:**
+    * *Sie **steht** jeden Tag um 7 Uhr **auf**.* (She gets up at 7 a.m. every day.)
 
 ---
 
-## 4. Time–Manner–Place Rule
+## 3. Order of Adverbs (TEKAMOLO)
 
-When you have several adverbs, the order is usually:
+When you have several adverbs or pieces of information, German has a default order, remembered by the acronym **TEKAMOLO**.
 
-1. **Time (Wann?)**
-2. **Manner (Wie?)**
-3. **Place (Wo?)**
+1.  **Te** = **Temporal** (When? - *heute, morgen, um 10 Uhr*)
+2.  **Ka** = **Kausal** (Why? - *wegen des Wetters, aus Liebe*)
+3.  **Mo** = **Modal** (How? - *schnell, mit dem Auto, gern*)
+4.  **Lo** = **Lokal** (Where? - *hier, in die Schule, nach Berlin*)
 
-* *Ich gehe **morgen** **mit dem Zug** **nach Berlin**.*
-* *Wir treffen uns **am Freitag** **gerne** **im Park**.*
-
----
-
-## 5. Yes/No Questions
-
-Verb moves to the first position.
-
-* *Kommst du heute?*
-* *Hast du das Buch gelesen?*
+* *Ich fahre **heute** (Te) **mit dem Zug** (Mo) **nach Berlin** (Lo).*
+    (I'm going today by train to Berlin.)
+* *Er ist **gestern** (Te) **wegen des Streiks** (Ka) **mit dem Taxi** (Mo) **zur Arbeit** (Lo) gefahren.*
+    (He went yesterday because of the strike by taxi to work.)
 
 ---
 
-## 6. W-Questions
+## 4. Order of Objects (Dative & Accusative)
 
-The W-word comes first, the verb second.
+When a sentence has both a dative and an accusative object, their order depends on whether they are nouns or pronouns.
 
-* *Wo wohnst du?*
-* *Wann beginnt der Film?*
-* *Warum lernst du Deutsch?*
+* **Rule 1: Two Nouns**
+    **Dative** object comes **before** the **Accusative** object.
+    * *Ich gebe **dem Mann** (Dat) **das Buch** (Akk).*
+    * (I give the man the book.)
 
----
+* **Rule 2: One Pronoun**
+    The **Pronoun** *always* comes **before** the **Noun**.
+    * *Ich gebe **ihm** (Dat) **das Buch** (Akk).* (I give him the book.)
+    * *Ich gebe **es** (Akk) **dem Mann** (Dat).* (I give it to the man.)
 
-## 7. Subordinate Clauses
-
-In subordinate clauses, the conjugated verb moves to the **end**.
-
-* *…, weil ich müde **bin**.*
-* *…, dass er nach Berlin **gefahren ist**.*
-* *…, obwohl sie das Buch nicht **gelesen hat**.*
-
-👉 Commas mark the beginning and end of subordinate clauses.
-
----
-
-## 8. Main + Subordinate Clause Together
-
-* *Ich bleibe zu Hause, weil ich krank **bin**.*
-* *Er sagt, dass er keine Zeit **hat**.*
-
----
-
-## 9. Common Pitfalls
-
-* Forgetting the V2 rule: *❌ Ich heute gehe ins Kino.*
-* Putting too many elements before the verb. Only one is allowed.
-* Wrong order of objects: pronouns must come before nouns.
-* Ignoring sentence brackets: the non-conjugated part goes at the end.
+* **Rule 3: Two Pronouns**
+    **Accusative** object comes **before** the **Dative** object.
+    * *Ich gebe **es** (Akk) **ihm** (Dat).*
+    * (I give it to him.)
 
 ---
 
 ## Quick Summary
 
-* **Main clause:** Verb is always in 2nd position.
-* **Subordinate clause:** Verb goes to the end.
-* **Word order inside the clause:** Subject – Verb – (Objects/Adverbs) – Rest of verb.
-* **Adverbs:** Time – Manner – Place.
+* **Main Clause:** The conjugated verb is *always* in **Position 2**.
+* **Inversion:** If Position 1 is not the subject, the subject moves *after* the verb.
+* **Satzklammer:** Second verb parts (participles, infinitives) go to the *very end*.
+* **Adverbs:** The default order is **TEKAMOLO** (Time–Cause–MManner–Place).
+* **Objects:**
+    * Nouns: **Dative** > Accusative
+    * Pronouns: **Accusative** > Dative
+    * (And all pronouns come before all nouns)
+
+---

@@ -82,6 +82,3 @@ Abstract or mass nouns usually don’t have plural.
 | **zero**       | der Lehrer     | die Lehrer      | No added ending; sometimes umlauted    |
 
 ---
-
-## 7. Tip
-Always learn the plural with the noun (and article): *das Buch → die Bücher*, *der Apfel → die Äpfel*. Patterns help, but German loves exceptions.

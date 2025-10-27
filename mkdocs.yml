@@ -32,9 +32,11 @@ nav:
           - Modal verbs: grammar/verbs/modal-verbs.md
           - Passive voice: grammar/verbs/passive-voice.md
           - Tenses: grammar/verbs/tenses.md
+          - Separable verbs: grammar/verbs/separable-verbs.md
+          - Imperative: grammar/verbs/imperative.md
+          - Auxiliary verbs: grammar/verbs/auxiliary-verbs.md
       - 🎨 Adjectives:
           - Adjectives: grammar/adjectives/README.md
-          - Endings: grammar/adjectives/adjective-endings.md
           - Comparison: grammar/adjectives/comparison.md
           - Declension: grammar/adjectives/declension.md
       - 🙋 Pronouns:
@@ -44,6 +46,8 @@ nav:
           - Possessive: grammar/pronouns/possessive.md
           - Reflexive: grammar/pronouns/reflexive.md
           - Relative: grammar/pronouns/relative.md
+          - Interrogative: grammar/pronouns/interrogative.md
+          - Indefinite: grammar/pronouns/indefinite.md
       - 🏗️ Syntax:
           - Syntax: grammar/syntax/README.md
           - Main clauses: grammar/syntax/main-clauses.md
@@ -51,6 +55,7 @@ nav:
           - Questions: grammar/syntax/questions.md
           - Subordinate clauses: grammar/syntax/subordinate-clauses.md
           - Word order: grammar/syntax/word-order.md
+          - Conjunctions: grammar/syntax/conjunctions.md
       - 🎲 Miscellany:
           - Miscellany: grammar/miscellany/README.md
           - Adverbs: grammar/miscellany/adverbs.md

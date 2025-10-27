@@ -1,26 +1,31 @@
-# Adjectives
+# Adjectives (Adjektive)
 
-This folder contains concise notes on German adjective usage: how adjectives change form (endings), how they decline with articles and without, and how to form and use comparisons.
+Adjectives are words that describe or modify nouns (people, places, things, or ideas). In German, adjectives are essential for adding detail and color to your language.
 
-Files
+A German adjective can be used in two primary ways:
 
-- `adjective-endings.md` — summary of adjective endings for different cases, genders, and article types (definite, indefinite, no article).
-- `declension.md` — explanation of adjective declension patterns and examples showing adjectives with nouns and articles.
-- `comparison.md` — how to form comparative and superlative forms in German and common irregulars.
+1.  **Predicate Adjectives:** Used *after* a verb (like *sein* "to be" or *werden* "to become"). This form is simple: the adjective **never** takes an ending.
+    * *Das Auto ist **schnell**.* (The car is fast.)
+    * *Die Frau ist **freundlich**.* (The woman is friendly.)
 
-Suggested reading order
+2.  **Attributive Adjectives:** Used *before* a noun. This is where German grammar becomes more complex. In this position, the adjective **must** take an ending that matches the noun's gender, case, and number.
+    * *Das **schnell<u>e</u>** Auto...* (The fast car...)
+    * *Die **freundlich<u>e</u>** Frau...* (The friendly woman...)
 
-1. `adjective-endings.md` — get familiar with the endings table.
-2. `declension.md` — learn how endings apply in real sentences.
-3. `comparison.md` — study comparatives and superlatives after you understand declension.
+Like in English, German adjectives can also be used to compare things.
 
-Quick tips
+* *schnell* (fast) -> *schnell**er*** (faster) -> *am schnell**sten*** (fastest)
 
-- Memorize the strong/weak/mixed distinction and the most common endings for nominative and accusative first.
-- Pay special attention to adjective endings after indefinite articles and without articles — these are common sources of mistakes.
-- Practice by writing short noun phrases (e.g., "ein guter Mann", "gute Frauen", "rotes Auto") and checking the endings.
+---
 
-See also
+## In This Section
 
-- `../articles/README.md` — for article usage that affects adjective endings.
-- `../nouns/declension.md` — for noun case refreshers that help you pick the right adjective ending.
+To master German adjectives, you need to understand these two key concepts:
+
+* **[Adjective Declension](./declension.md)**
+    This is the complete guide to the "three-table system" (weak, mixed, and strong) for adding the correct endings to adjectives that come before a noun.
+
+* **[Adjective Comparison](./comparison.md)**
+    Learn how to form the comparative (*-er*) and superlative (*-sten*) to compare nouns, including common irregular forms like *gut*, *besser*, *am besten* (good, better, best).
+
+---

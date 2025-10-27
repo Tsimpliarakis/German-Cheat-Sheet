@@ -1,11 +1,6 @@
 # Artikel (Articles)
 
-## Table of contents
-
-- [Overview](#overview)
-- [Types of Articles](#types-of-articles)
-- [Quick Tips](#quick-tips)
-
+---
 
 ## Overview
 
@@ -37,5 +32,3 @@ Plural nouns use **die** in the nominative, regardless of gender.
 - Feminine is easiest (same form in nominative/accusative and same in dative/genitive).
 
 ---
-
-For detailed tables, examples, and special cases, see the dedicated files for each article type.

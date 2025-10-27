@@ -1,77 +1,93 @@
-# Adjective declension
+# Adjective Declension (Adjektivdeklination)
 
-This page explains how adjectives change (decline) in German depending on the case, gender, number, and the type of article or determiner that precedes the adjective.
+---
 
-Overview
+In German, adjective declension is the system of adding endings to adjectives that come *before* a noun. This ending changes to match the **gender**, **number**, and **case** of the noun.
 
-German distinguishes three declension patterns for adjectives:
+The specific ending you use depends entirely on the type of word (or lack of word) that comes *before* the adjective.
 
-- Strong declension: used when there is no article or determiner that shows the case/gender (e.g., no article or after certain quantifiers). The adjective carries the ending that indicates case, gender and number.
-- Weak declension: used when a definite article (der/die/das, dieser, jener, jeder in some uses) is present; the article already indicates case/gender, so the adjective takes weaker endings (mostly `-e` or `-en`).
-- Mixed declension: used after indefinite articles (`ein`, `kein`) and possessives (`mein`, `dein`, `sein`, etc.). The article provides some information (usually gender but not case), so the adjective mixes strong and weak endings.
+There are three main declension patterns:
 
-When to use which
+1.  **Weak Declension:** After a **definite article** (der, die, das, etc.).
+2.  **Mixed Declension:** After an **indefinite article** (ein, eine) or a **possessive** (mein, dein, etc.).
+3.  **Strong Declension:** After **no article**.
 
-- If a definite article (or a determiner that behaves like one) directly precedes the adjective, use weak declension.
-- If an indefinite article or possessive precedes it, use mixed declension.
-- If there is no article/determiner (or after words like `viel`, `mehrere`, `einige` in certain constructions), use strong declension.
+---
 
-Key endings (summary)
+## 1. Weak Declension (after Definite Articles)
 
-Below is a compact summary for quick reference. Tables in `adjective-endings.md` provide the same information in a tabular layout.
+This is the "easy" set of endings. Because the definite article (like *der* or *dem*) already clearly shows the gender, case, and number, the adjective only needs a "weak" ending.
 
-- Strong declension (no article):
-	- Nominative: masc `-er`, fem `-e`, neuter `-es`, plural `-e`
-	- Accusative: masc `-en`, fem `-e`, neuter `-es`, plural `-e`
-	- Dative: all genders `-en` (plural `-en`)
-	- Genitive: all genders `-en` (often `-en`)
+**Rule:** The ending is **-en** *almost* everywhere. The only exceptions are the five "e-spots" in the nominative singular and accusative (feminine and neuter).
 
-- Weak declension (after `der/die/das`):
-	- Nominative: masc `-e`, fem `-e`, neuter `-e`, plural `-en`
-	- Accusative: masc `-en`, fem `-e`, neuter `-e`, plural `-en`
-	- Dative: all genders `-en` (plural `-en`)
-	- Genitive: all genders `-en` (plural `-en`)
+| Case (Kasus) | Masculine | Feminine | Neuter | Plural |
+|:---|:---|:---|:---|:---|
+| Nominative | der gut**e** | die gut**e** | das gut**e** | die gut**en** |
+| Accusative | den gut**en** | die gut**e** | das gut**e** | die gut**en** |
+| Dative | dem gut**en** | der gut**en** | dem gut**en** | den gut**en** |
+| Genitive | des gut**en** | der gut**en** | des gut**en** | der gut**en** |
 
-- Mixed declension (after `ein`, `kein`, `mein`, `dein`, etc.):
-	- Nominative: masc `-er`, fem `-e`, neuter `-es`, plural `-en`
-	- Accusative: masc `-en`, fem `-e`, neuter `-es`, plural `-en`
-	- Dative: all genders `-en` (plural `-en`)
-	- Genitive: all genders `-en` (plural `-en`)
+**Examples:**
+* Ich sehe **den alt<u>en</u> Mann**. (I see the old man.)
+* Das Auto **der reich<u>en</u> Frau** ist rot. (The car of the rich woman is red.)
+* Wir helfen **den neu<u>en</u> Studenten**. (We help the new students.)
 
-Examples
+---
 
-- Strong declension (no article):
-	- "guter Wein" (nominative masc) — Guter Wein ist teuer.
-	- "rote Äpfel" (nominative plural) — Rote Äpfel schmecken gut.
+## 2. Mixed Declension (after Indefinite Articles)
 
-- Weak declension (definite article):
-	- "der gute Mann" (nominative masc) — Der gute Mann lacht.
-	- "die rote Blume" (nominative fem) — Die rote Blume ist schön.
+This pattern is used after *ein-, kein-, mein-, dein-, sein-, ihr-, unser-, euer-*.
 
-- Mixed declension (indefinite/possessive):
-	- "ein guter Mann" (nominative masc) — Ein guter Mann hilft.
-	- "meine roten Schuhe" (nominative plural) — Meine roten Schuhe sind neu.
+**Rule:** These endings are "mixed" because they are *mostly* weak (like the table above), but they must be *strong* in the few places where the indefinite article doesn't have a strong ending itself (Nominative Masculine/Neuter, and Accusative Neuter).
 
-Common pitfalls
+| Case (Kasus) | Masculine | Feminine | Neuter | Plural* |
+|:---|:---|:---|:---|:---|
+| Nominative | ein gut**er** | eine gut**e** | ein gut**es** | *keine gut**en** |
+| Accusative | einen gut**en** | eine gut**e** | ein gut**es** | *keine gut**en** |
+| Dative | einem gut**en** | einer gut**en** | einem gut**en** | *keinen gut**en** |
+| Genitive | eines gut**en** | einer gut**en** | eines gut**en** | *keiner gut**en** |
 
-- Confusing mixed and weak endings in plural forms: after `meine` the plural adjective must take `-en` (e.g., `meine guten Freunde`).
-- Forgetting that after definite articles the adjective usually takes `-e` in the nominative singular (masc/fem/neut) but `-en` in plural and most other cases.
-- Not mapping noun gender/case correctly — always identify the case and gender first, then choose article + ending.
+*\*Note: The plural of "ein" (a) doesn't exist. The table shows the endings for "kein-" (no) or "mein-" (my), which follow the **weak** pattern in the plural.*
 
-Short practice exercises
+**Examples:**
+* **Ein gut<u>er</u> Mann** liest. (A good man reads.)
+* Ich habe **einen neu<u>en</u> Tisch**. (I have a new table.)
+* Sie kauft **ein schnell<u>es</u> Auto**. (She buys a fast car.)
 
-1. Choose the correct adjective form:
-	 - (alt) ___ Mann (nominative singular, definite article)
-	 - (alt) ___ Auto (nominative singular, no article)
-	 - (kalt) ___ Wasser (accusative neuter, indefinite article)
+---
 
-Answers:
-1. der alte Mann
-2. altes Auto
-3. kaltes Wasser
+## 3. Strong Declension (after No Article)
 
-Further reading
+This pattern is used when there is no article at all (e.g., "fresh milk," "good wine").
 
-- `adjective-endings.md` — endings tables and quick reference.
-- `comparison.md` — comparatives and superlatives for adjectives.
-- `../articles/definite.md` and `../articles/indefinite.md` — review of articles that influence declension.
+**Rule:** Because there is no article to show the gender, case, or number, the **adjective must do all the work**. Its endings will look very similar to the definite article endings (e.g., *der* -> `-er`, *dem* -> `-em`).
+
+| Case (Kasus) | Masculine | Feminine | Neuter | Plural |
+|:---|:---|:---|:---|:---|
+| Nominative | gut**er** | gut**e** | gut**es** | gut**e** |
+| Accusative | gut**en** | gut**e** | gut**es** | gut**e** |
+| Dative | gut**em** | gut**er** | gut**em** | gut**en** |
+| Genitive | gut**en** | gut**er** | gut**en** | gut**er** |
+
+*(Note the Genitive Masculine/Neuter exception: it's **-en**, not -es, to avoid a double "s" sound with the noun, e.g., `guten Weines`.)*
+
+**Examples:**
+* Ich trinke **kalt<u>e</u> Milch**. (I drink cold milk.)
+* **Gut<u>er</u> Wein** ist teuer. (Good wine is expensive.)
+* Er gibt **arm<u>en</u> Leuten** Geld. (He gives money to poor people.)
+
+---
+
+## When *Not* to Decline Adjectives
+
+This is very important: Adjectives *only* take these endings when they come **before** the noun they describe (attributive adjectives).
+
+Adjectives that come *after* the noun and are separated by a verb (like "is," "seems," "becomes") **never** take an ending. These are called predicate adjectives.
+
+* Der Mann ist **alt**. (The man is old.)
+* Die Frau ist **freundlich**. (The woman is friendly.)
+* Das Auto war **schnell**. (The car was fast.)
+
+In all these cases, the adjective **alt**, **freundlich**, and **schnell** has no ending.
+
+---

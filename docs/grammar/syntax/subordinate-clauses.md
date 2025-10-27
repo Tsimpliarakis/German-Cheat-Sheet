@@ -1,96 +1,46 @@
-# Subordinate Clauses (Nebensätze)
+# Subordinating Clauses (Nebensätze)
 
-A **subordinate clause (Nebensatz)** cannot stand alone. It depends on a main clause (Hauptsatz) and is usually introduced by a **subordinating conjunction** (Konjunktion) or a **relative pronoun**.
+A subordinating clause (or dependent clause) is a part of a sentence that cannot stand on its own. It adds extra information (like *why*, *when*, or *that* something happened) and must be attached to a main clause.
 
----
+## The V-Final (Verb-Last) Rule
 
-## 1. Word Order in Subordinate Clauses
+The defining feature of a German subordinate clause is the **V-Final Rule**: the **conjugated verb** moves to the **very end** of its clause.
 
-* The **conjugated verb** always goes to the **end** of the subordinate clause.
-* The subject and objects come at the beginning, like in a normal sentence.
+These clauses are introduced by a **subordinating conjunction**.
 
-Example:
-
-* *Ich bleibe zu Hause, **weil ich krank bin**.*
-* *Er sagt, **dass er keine Zeit hat**.*
-* *Sie weiß nicht, **ob er kommt**.*
-
----
-
-## 2. Subordinating Conjunctions (Konjunktionen)
-
-Common conjunctions that send the verb to the end:
-
-* **weil** (because)
+**Common Subordinating Conjunctions:**
 * **dass** (that)
-* **ob** (if / whether)
-* **wenn** (if / when)
-* **als** (when, past only)
+* **weil** (because)
+* **ob** (whether, if)
+* **wenn** (if, when)
+* **als** (when - for a single past event)
 * **bevor** (before)
 * **nachdem** (after)
 * **obwohl** (although)
 * **damit** (so that)
-* **seit / seitdem** (since)
-* **während** (while)
 
-Examples:
+## Examples of V-Final
 
-* *Ich lerne Deutsch, **weil ich in Deutschland leben will**.*
-* *Er fragt mich, **ob ich morgen Zeit habe**.*
-* *Wir gehen spazieren, **obwohl es regnet**.*
+Watch how the verb moves to the end after the conjunction.
 
----
+* **Main Clause:** *Er ist zu Hause. Er ist krank.* (He is at home. He is sick.)
+* **With Conjunction:** *Er ist zu Hause, **weil** er krank **ist**.*
+    * The verb *ist* moves to the end of the clause introduced by *weil*.
 
-## 3. Main Clause + Subordinate Clause
+* **Main Clause:** *Ich denke etwas. Du hast Recht.* (I think something. You are right.)
+* **With Conjunction:** *Ich denke, **dass** du Recht **hast**.*
+    * The verb *hast* moves to the end.
 
-Order doesn’t matter; you can start with either part:
+## Verb Brackets in V-Final Clauses
 
-* **Main first:**
+If a subordinate clause has a two-part verb (like a modal verb or perfect tense), the **conjugated verb** moves *all the way to the end*, *after* the other verb part.
 
-  * *Ich gehe ins Kino, weil ich den Film sehen will.*
-* **Subordinate first:**
+* **Modal Verb:**
+    * *...weil ich nicht schwimmen **kann**.* (because I can't swim.)
+    * *...weil er das Buch lesen **wollte**.* (because he wanted to read the book.)
 
-  * *Weil ich den Film sehen will, gehe ich ins Kino.*
-
-👉 If the subordinate clause comes first, the main clause verb must immediately follow (V2 rule still applies).
-
----
-
-## 4. Relative Clauses
-
-Relative clauses describe a noun and start with a **relative pronoun** (der, die, das, welcher…).
-
-* *Das ist der Mann, **der neben mir wohnt**.*
-* *Ich kenne eine Frau, **die sehr gut Deutsch spricht**.*
-* *Das Buch, **das ich gestern gekauft habe**, ist spannend.*
-
-Rule: Relative pronoun agrees in gender/number with the noun, but takes the case it needs in its own clause.
+* **Perfect Tense:**
+    * *...weil er das Buch **gelesen hat**.* (because he has read the book.)
+    * *...weil sie nach Berlin **gefahren ist**.* (because she has driven to Berlin.)
 
 ---
-
-## 5. Nested Clauses (Extra Fun)
-
-Subordinate clauses can contain other subordinate clauses. German allows this, though it gets heavy.
-
-* *Er sagt, dass er bleibt, weil er glaubt, dass wir Hilfe brauchen.*
-* (He says that he’s staying because he thinks that we need help.)
-
----
-
-## 6. Quick Pitfalls
-
-* Don’t forget the **verb at the end**.
-
-  * ❌ *…, weil ich bin krank.*
-  * ✅ *…, weil ich krank bin.*
-* Don’t mix up **wenn** (if/whenever) and **als** (when in the past).
-* Always put a **comma** before a subordinate clause.
-
----
-
-## Quick Summary
-
-* Subordinate clauses depend on a main clause.
-* Introduced by conjunctions or relative pronouns.
-* **Verb always at the end.**
-* If subordinate clause comes first, main clause verb must follow directly.

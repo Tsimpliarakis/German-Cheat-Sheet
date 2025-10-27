@@ -34,3 +34,5 @@ Definite articles in German correspond to “the” in English. They indicate th
 ---
 
 In everyday speech, the genitive is often replaced by the dative.
+
+---

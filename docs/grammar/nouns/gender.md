@@ -66,4 +66,16 @@ While many nouns must be memorized, there are helpful rules and tendencies:
 
 ---
 
-Do you want me to also prepare `/docs/grammar/nouns/plural.md` in the same style so the set is complete?
+> ## 💡 **Tips**
+>
+> Always learn the plural with the noun (and article):
+
+> *das Buch → die Bücher*
+
+> *der Apfel → die Äpfel*
+
+> *die Schule → die Schulen*
+
+> Patterns help, but German loves exceptions.
+
+---

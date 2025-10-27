@@ -1,63 +1,37 @@
-# Syntax — Word order & sentence structure
+# German Syntax (Satzbau)
 
-Syntax is where German shows its true colors: verbs jumping to the end, subjects hiding, and questions turning everything upside down. This folder explains how German sentences are built, so you don’t have to panic when a verb suddenly vanishes to the end of the line.
+Syntax is the "architecture" of a sentence—the rules for how to put words in the correct order.
 
----
+While English has a relatively fixed word order (Subject-Verb-Object), German syntax is more flexible *and* more rigid at the same time. It's flexible because **cases** (Nominative, Accusative, etc.) tell you a noun's job, not its position.
 
-## What’s in this folder
+However, it's very rigid about one thing: **the position of the verb**. Understanding where the verb goes is the #1 rule of German sentence structure.
 
-- [`word-order.md`](./word-order.md) — The standard rules of German word order (verb-second rule, time-manner-place, verb-final in subordinate clauses).  
-- [`main-clauses.md`](./main-clauses.md) — How to build main clauses correctly, with verb-second structure and common variations.  
-- [`subordinate-clauses.md`](./subordinate-clauses.md) — Conjunctions that push verbs to the end; overview of common connectors.  
-- [`questions.md`](./questions.md) — Forming yes/no questions and W-questions, word order and intonation.  
-- [`negation.md`](./negation.md) — When to use **nicht** vs. **kein**, placement of negation in sentences.
+There are three main patterns for the verb:
 
----
-
-## At-a-glance reference
-
-### 1. Main word order rules
-- **Verb-second rule (V2)**: In main clauses, the finite verb is always in 2nd position.  
-  *Heute **gehe** ich ins Kino.*  
-- **Time–Manner–Place (TMP)**: Order of adverbs and complements.  
-  *Ich gehe **heute** mit Freunden **ins Kino**.*
-
-### 2. Subordinate clauses
-- Conjunctions send the finite verb to the **end**.  
-  *Ich weiß, dass er morgen kommt.*  
-
-### 3. Questions
-- **Yes/No**: Verb goes first. *Kommst du morgen?*  
-- **W-questions**: Question word first, then verb. *Wann kommst du?*
-
-### 4. Negation
-- **kein** = negates nouns (*Ich habe kein Geld.*).  
-- **nicht** = negates verbs, adjectives, or whole clauses (*Ich gehe nicht.*).  
+1.  **Verb-Second (V2):** The conjugated verb is the *second* element in a main clause.
+2.  **Verb-First (V1):** The conjugated verb is the *first* element in a yes/no question or command.
+3.  **Verb-Final:** The conjugated verb moves to the very *end* of a subordinate clause.
 
 ---
 
-## How to use these pages
+## In This Section
 
-1. Start with `word-order.md` for the big picture.  
-2. Practice with `main-clauses.md` until V2 word order feels automatic.  
-3. Move to `subordinate-clauses.md` — learn which conjunctions cause verb-final order.  
-4. Drill `questions.md` by writing/answering your own yes/no and W-questions.  
-5. Finally, tackle `negation.md` — practice switching between *nicht* and *kein*.
+* **[Word Order (Wortstellung)](./word-order.md)**
+    An overview of the "V2" (Verb-Second) rule, inversion, and the "TEKAMOLO" rule for ordering information (Time, Cause, Manner, Place).
+
+* **[Main Clauses (Hauptsätze)](./main-clauses.md)**
+    A detailed look at simple sentences and the V2 rule, including the "verb bracket" (*Satzklammer*) for modal verbs or the perfect tense.
+
+* **[Conjunctions (Konjunktionen)](./conjunctions.md)**
+    The "glue" of the language. Learn the crucial difference between ADUSO (which don't change word order) and subordinating conjunctions (which send the verb to the end).
+
+* **[Subordinating Clauses (Nebensätze)](./subordinate-clauses.md)**
+    How to build dependent clauses using conjunctions like *weil* (because) and *dass* (that), forcing the verb to the end (V-Final).
+
+* **[Questions (Fragesätze)](./questions.md)**
+    How to form both yes/no questions (V1) and "W-questions" (like *Wer?*, *Was?*, *Wann?*).
+
+* **[Negation (Verneinung)](./negation.md)**
+    The complete guide to using **nicht** (not) and **kein** (not a / no) correctly.
 
 ---
-
-## Common pitfalls (and how to avoid them)
-
-- Forgetting V2 rule → *Ich morgen gehe…* (wrong). Correct: *Morgen gehe ich…*  
-- Confusing *ob* (whether) with *wenn* (if/when).  
-- Using *nicht* instead of *kein*: *Ich habe nicht Geld* ❌ → *Ich habe kein Geld* ✅  
-- Double-subject syndrome in questions: *Wann du kommst?* ❌ → *Wann kommst du?* ✅  
-
----
-
-## Quick exercises
-
-- Rewrite 5 English sentences as German main clauses (check verb-second).  
-- Turn 3 main clauses into subordinate clauses using *weil* or *dass*.  
-- Form 5 yes/no and 5 W-questions.  
-- Negate 5 sentences twice: once with *nicht*, once with *kein*.

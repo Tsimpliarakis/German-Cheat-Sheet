@@ -1,105 +1,46 @@
-# Verben (Verbs)
+# Verbs (Verben)
 
-## Table of contents
+Verbs are the engine of a German sentence. They describe actions (*laufen* - to run), states (*sein* - to be), or processes (*werden* - to become).
 
-- [Introduction](#introduction)
-- [1. Regular Verbs (Schwache Verben)](#1-regular-verbs-schwache-verben)
-- [2. Irregular Verbs (Starke Verben)](#2-irregular-verbs-starke-verben)
-- [3. Modal Verbs (Modalverben)](#3-modal-verbs-modalverben)
-- [4. Reflexive Verbs (Reflexive Verben)](#4-reflexive-verbs-reflexive-verben)
-- [5. Separable and Inseparable Prefix Verbs](#5-separable-and-inseparable-prefix-verbs)
-- [6. Useful Grammar Sites](#6-useful-grammar-sites)
+Understanding German verbs requires mastering two main concepts:
 
+1.  **Conjugation:** How a verb changes its ending to match a subject (e.g., *ich geh**e***, *du geh**st***).
+2.  **Syntax:** Where the verb is placed in a sentence. In German, the verb's position is the most important rule of grammar (e.g., V2 rule, V-Final rule).
 
-## Introduction
-
-German verbs express **actions, states, or occurrences**.
-They change depending on **person, number, tense, and mood**.
-Understanding verbs is crucial because they affect word order and case usage in sentences.
+This section covers all aspects of how to form, change, and use verbs correctly.
 
 ---
 
-## 1. Regular Verbs (Schwache Verben)
+## In This Section
 
-Regular verbs follow predictable patterns in their conjugation.
-Example: **spielen (to play)**
+### Core Concepts
 
-| Person        | Präsens  | Präteritum | Perfekt          |
-|---------------|----------|------------|-----------------|
-| ich           | spiele   | spielte    | habe gespielt   |
-| du            | spielst  | spieltest  | hast gespielt   |
-| er/sie/es     | spielt   | spielte    | hat gespielt    |
-| wir           | spielen  | spielten   | haben gespielt  |
-| ihr           | spielt   | spieltet   | habt gespielt   |
-| sie/Sie       | spielen  | spielten   | haben gespielt  |
+* **[Auxiliary Verbs (Hilfsverben)](./auxiliary-verbs.md)**
+    The three most important verbs: `haben`, `sein`, and `werden`. Learn how they are used to build tenses and the passive voice.
 
-**Tip:** Most German verbs are regular. Learn the endings:
-- Präsens: -e, -st, -t, -en, -t, -en
-- Präteritum: -te, -test, -te, -ten, -tet, -ten
+* **[Conjugation (Konjugation)](./conjugation.md)**
+    The fundamental rules for changing verb endings to match a subject (ich, du, er...) in the present tense.
 
----
+* **[Irregular Verbs (Unregelmäßige Verben)](./irregular-verbs.md)**
+    A guide to strong and mixed verbs, which change their stem vowels (e.g., *sehen -> sieht*), and their essential "principal parts" (*sehen, sah, gesehen*).
 
-## 2. Irregular Verbs (Starke Verben)
+* **[Separable Verbs (Trennbare Verben)](./separable-verbs.md)**
+    Learn the "sentence bracket" rule for verbs like `anrufen`, where the prefix moves to the end of the sentence (*Ich rufe dich **an***).
 
-Irregular verbs often change their stem vowel in different tenses.
-Example: **sehen (to see)**
+### Tenses (Zeiten)
 
-| Person        | Präsens  | Präteritum | Perfekt        |
-|---------------|----------|------------|----------------|
-| ich           | sehe     | sah        | habe gesehen   |
-| du            | siehst   | sahst      | hast gesehen   |
-| er/sie/es     | sieht    | sah        | hat gesehen    |
-| wir           | sehen    | sahen      | haben gesehen  |
-| ihr           | seht     | saht       | habt gesehen   |
-| sie/Sie       | sehen    | sahen      | haben gesehen  |
+* **[Tenses (Zeiten)](./tenses.md)**
+    A complete overview of the six German tenses, with a focus on the practical differences between the **Perfekt** (spoken past) and **Präteritum** (written past).
 
-**Tip:** Irregular verbs need to be memorized individually because their stem changes are unpredictable.
+### Moods & Voices
+
+* **[Modal Verbs (Modalverben)](./modal-verbs.md)**
+    How to use verbs like `können` (can), `müssen` (must), `wollen` (want), etc.
+
+* **[Passive Voice (Passiv)](./passive-voice.md)**
+    How to form sentences where the action is the focus, not the doer (*Das Auto **wird** repariert* - The car is being repaired).
+
+* **[The Imperative (Imperativ)](./imperative.md)**
+    How to give commands to different people (*Geh!*, *Geht!*, *Gehen Sie!*).
 
 ---
-
-## 3. Modal Verbs (Modalverben)
-
-Modal verbs modify the meaning of the main verb and often appear with an infinitive.
-Common ones: **können, müssen, dürfen, sollen, wollen, mögen**
-
-| Modal Verb | Meaning     | Example                          |
-|------------|------------|----------------------------------|
-| können     | can        | Ich **kann** schwimmen. (I can swim.) |
-| müssen     | must       | Du **musst** lernen. (You must study.) |
-| dürfen     | may        | Wir **dürfen** hier sitzen. (We may sit here.) |
-| sollen     | should     | Er **soll** helfen. (He should help.) |
-| wollen     | want       | Ich **will** ein Buch kaufen. (I want to buy a book.) |
-| mögen      | like       | Sie **mag** Schokolade. (She likes chocolate.) |
-
----
-
-## 4. Reflexive Verbs (Reflexive Verben)
-
-Reflexive verbs require a reflexive pronoun that refers back to the subject.
-Example: **sich freuen (to be glad)**
-
-| Person        | Präsens            | Perfekt              |
-|---------------|------------------|--------------------|
-| ich           | freue mich        | habe mich gefreut   |
-| du            | freust dich       | hast dich gefreut   |
-| er/sie/es     | freut sich        | hat sich gefreut    |
-| wir           | freuen uns        | haben uns gefreut   |
-| ihr           | freut euch        | habt euch gefreut   |
-| sie/Sie       | freuen sich       | haben sich gefreut  |
-
----
-
-## 5. Separable and Inseparable Prefix Verbs
-
-**Separable prefixes:** ab-, an-, auf-, aus-, ein-, mit-, nach-, zu-
-- Example: **aufstehen (to get up)** → Ich **stehe** um 7 Uhr **auf**.
-
-**Inseparable prefixes:** be-, er-, ver-, ent-, zer-, ge-
-- Example: **verstehen (to understand)** → Ich **verstehe** dich.
-
----
-
-## 6. Useful Grammar Sites
-
-- [Lingolia German Grammar – Verbs](https://deutsch.lingolia.com/de/grammatik) – clear explanations of verb types, conjugation, and exercises.
-- [Scribbr – German Verbs](https://www.scribbr.de/) – structured guides, examples, and exercises for regular, irregular, modal, and reflexive verbs.

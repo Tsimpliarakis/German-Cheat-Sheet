@@ -37,3 +37,5 @@ Adverbs modify verbs, adjectives, other adverbs, or whole clauses. They answer q
 ---
 
 Adverbs are essential for adding detail and nuance; practice by expanding simple sentences with time, manner, and place adverbials.
+
+---

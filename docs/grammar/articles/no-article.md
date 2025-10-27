@@ -33,3 +33,5 @@ In German, some nouns appear **without any article** (no definite, indefinite, o
 ---
 
 Learning when to use no article is important for sounding natural in German.
+
+---

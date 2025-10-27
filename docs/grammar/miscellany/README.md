@@ -1,5 +1,7 @@
 # Miscellany — Grammar notes
 
+---
+
 This folder contains short reference notes for smaller grammar topics and helper materials that don't fit into the main sections (articles, nouns, verbs, etc.). The pages are designed to be concise, practical, and easy to reference while studying or writing.
 
 Files
@@ -17,3 +19,5 @@ How to use
 Contributions
 
 - If you want to expand any page (more examples, exceptions, exercises), create a branch and open a pull request. Keep entries short and example-focused.
+
+---

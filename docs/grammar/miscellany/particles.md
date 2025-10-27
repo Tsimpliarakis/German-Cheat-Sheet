@@ -24,3 +24,5 @@ Particles are small words that add nuance, emphasis, or emotion to a sentence bu
 ---
 
 Learning to use particles naturally will make your German sound more fluent and native-like.
+
+---

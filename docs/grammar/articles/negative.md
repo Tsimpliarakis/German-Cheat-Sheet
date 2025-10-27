@@ -27,3 +27,5 @@ Negative articles in German work like the indefinite article but mean “no” o
 ---
 
 Learning the correct forms of the negative article is important for expressing negation in German sentences.
+
+---

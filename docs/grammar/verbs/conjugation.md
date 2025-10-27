@@ -1,180 +1,109 @@
-# Konjugation (Conjugation)
+# Verb Conjugation (Konjugation)
 
-This page explains how German verbs are conjugated for person, number, tense, and mood. It covers common patterns (regular/weak verbs), irregular (strong) verbs and stem-changing verbs, as well as separable/inseparable prefixes, reflexive verbs, participles, and the imperative.
+Verb conjugation is the process of changing a verb's ending to match the **subject** (who is doing the action) and the **tense** (when it's happening).
 
----
+In German, all conjugations start by finding the verb's **stem**. You do this by removing the `-en` or `-n` from its infinitive (the "to..." form).
 
-## 1. Basics: person and number
+* Infinitive: **spiel_en_** (to play) -> Stem: **spiel-**
+* Infinitive: **geh_en_** (to go) -> Stem: **geh-**
+* Infinitive: **wander_n_** (to hike) -> Stem: **wander-**
 
-German verbs are conjugated for six persons:
-
-- ich (1st person singular)
-- du (2nd person singular, informal)
-- er / sie / es (3rd person singular)
-- wir (1st person plural)
-- ihr (2nd person plural, informal)
-- sie / Sie (3rd person plural / formal)
-
-Example (spielen — to play, regular):
-
-| Person | Präsens |
-|--------|---------|
-| ich    | spiele  |
-| du     | spielst |
-| er/sie/es | spielt |
-| wir    | spielen |
-| ihr    | spielt |
-| sie/Sie | spielen |
+You then add a specific ending to this stem based on the subject.
 
 ---
 
-## 2. Regular (weak) verbs
+## 1. Subjects (Person and Number)
 
-Regular verbs form their past (`Präteritum`) with `-te` plus personal endings, and their past participle with `ge-` + stem + `-t` (with some spelling changes). Endings are predictable.
+There are six "types" of subjects (persons) that a verb can match:
 
-Example: spielen
-
-- Präsens: ich spiele, du spielst, er spielt
-- Präteritum: ich spielte, du spieltest, er spielte
-- Perfekt: ich habe gespielt (auxiliary `haben` + Partizip II)
-
-Tip: Learn the present endings: `-e, -st, -t, -en, -t, -en`.
+| Person | Singular | Plural |
+|:---|:---|:---|
+| 1st Person | **ich** (I) | **wir** (we) |
+| 2nd Person | **du** (you, informal) | **ihr** (you all, informal) |
+| 3rd Person | **er/sie/es** (he/she/it) | **sie / Sie** (they / you, formal) |
 
 ---
 
-## 3. Irregular (strong) verbs and stem changes
+## 2. Present Tense Conjugation
 
-Strong verbs often change their stem vowel in the present and the simple past. Their past participle typically uses `ge-` + changed stem + `-en`.
+The present tense (Präsens) is the most common. The standard endings are:
 
-Example: sehen (to see)
+| Subject | Standard Ending | Example: **spiel_en_** (to play) |
+|:---|:---|:---|
+| ich | **-e** | ich spiel**e** |
+| du | **-st** | du spiel**st** |
+| er/sie/es | **-t** | er/sie/es spiel**t** |
+| wir | **-en** | wir spiel**en** |
+| ihr | **-t** | ihr spiel**t** |
+| sie/Sie | **-en** | sie/Sie spiel**en** |
 
-- Präsens: ich sehe, du siehst, er sieht
-- Präteritum: ich sah, du sahst, er sah
-- Perfekt: ich habe gesehen
-
-Common stem changes in the present (mostly for `du` and `er/sie/es`):
-- e → ie (sehen → du siehst / er sieht)
-- e → i (geben → du gibst / er gibt)
-- a → ä (fahren → du fährst / er fährt)
-
-Note: Not all irregularities are predictable; many strong verbs must simply be memorized.
+*Note: The `wir` and `sie/Sie` forms are almost always identical to the infinitive.*
 
 ---
 
-## 4. Mixed verbs
+## 3. The 3 Verb Classes
 
-Some verbs combine features of weak and strong verbs: they take a `-te` ending in the Präteritum like weak verbs but have a past participle in `-t` with a stem vowel change or other irregularity (e.g., `bringen` → Präteritum `brachte`, Perfekt `gebracht`).
+How a verb conjugates depends on its class.
 
----
+### 1. Weak Verbs (Regelmäßige Verben)
+These are "regular" verbs. They follow the standard ending pattern above and **never** change their stem vowel.
+* **machen** (to do): *ich mache, du machst, er macht*
+* **lernen** (to learn): *ich lerne, du lernst, er lernt*
+* **kaufen** (to buy): *ich kaufe, du kaufst, er kauft*
 
-## 5. Separable and inseparable prefix verbs
+**Spelling Rule:** If the stem ends in **-d** or **-t** (like `arbeiten`), or **-m/-n** after another consonant (like `öffnen`), you must add an **extra -e-** before the `-st` and `-t` endings to make it easier to say.
+* **arbeiten** (to work): *du arbeit**est***, *er arbeit**et***, *ihr arbeit**et***
+* **öffnen** (to open): *du öffn**est***, *er öffn**et***, *ihr öffn**et***
 
-Many German verbs have prefixes that change where the prefix appears in a sentence.
+### 2. Strong Verbs (Unregelmäßige Verben)
+These are "irregular" verbs. They use the same standard endings as weak verbs, but they **change their stem vowel** in the **2nd (du)** and **3rd (er/sie/es)** person singular.
+* The `ich`, `wir`, `ihr`, and `sie/Sie` forms are usually regular.
 
-- Separable prefixes (e.g., `auf-`, `ein-`, `mit-`, `an-`): in finite verb forms the prefix separates and moves to the end: `Ich stehe um 7 Uhr auf.` The past participle puts `ge-` between prefix and stem: `aufgestanden`.
-- Inseparable prefixes (e.g., `be-`, `ver-`, `er-`, `ent-`, `zer-`): the prefix stays attached; there is no `ge-` in the participle: `verstehen` → `verstanden` (exception: verbs beginning with `be/ent/ver/er/zer` normally do not take `ge-`).
+**Common Vowel Changes:**
+* **e -> ie**: **sehen** (to see) -> *du s**ie**hst, er s**ie**ht*
+* **e -> i**: **geben** (to give) -> *du g**i**bst, er g**i**bt*
+* **a -> ä**: **fahren** (to drive) -> *du f**ä**hrst, er f**ä**hrt*
+* **au -> äu**: **laufen** (to run) -> *du l**äu**fst, er l**äu**ft*
 
-Examples:
-- aufstehen (separable): `ich stehe auf`, Perfekt `ich bin aufgestanden`.
-- verstehen (inseparable): `ich verstehe`, Perfekt `ich habe verstanden`.
+| Subject | **sehen (e->ie)** | **fahren (a->ä)** |
+|:---|:---|:---|
+| ich | sehe | fahre |
+| du | **siehst** | **fährst** |
+| er/sie/es | **sieht** | **fährt** |
+| wir | sehen | fahren |
+| ihr | seht | fahrt |
+| sie/Sie | sehen | fahren |
 
----
-
-## 6. Reflexive verbs
-
-Reflexive verbs use reflexive pronouns (`mich`, `dich`, `sich`, `uns`, `euch`) that agree with the subject.
-
-Example: sich freuen (to be glad)
-
-- ich freue mich
-- du freust dich
-- er freut sich
-- wir freuen uns
-- Perfekt: ich habe mich gefreut
-
----
-
-## 7. Participles: Partizip I and Partizip II
-
-- Partizip I (present participle): formed with the infinitive + `-d` (rarely used as a verb form; common in adjectives/nouns): `spielend` (playing).
-- Partizip II (past participle): used with `haben`/`sein` to form perfect tenses. Regular: `ge-` + stem + `-t` (gespielt). Strong verbs: `ge-` + changed stem + `-en` (gesehen). Inseparable-prefix verbs often omit `ge-` (`verstanden`).
-
----
-
-## 8. Auxiliary verbs: haben and sein
-
-Most verbs form the Perfekt with `haben`. Verbs that indicate movement or change of state (and `sein` and `bleiben`) typically use `sein`.
-
-Examples:
-- Ich habe gespielt. (haben)
-- Ich bin gekommen. (sein)
-- Ich bin aufgestanden. (sein + separable prefix)
+### 3. Mixed Verbs (Mischverben)
+These are a small group of verbs that are "mixed." They are regular in the present tense (like weak verbs) but have a stem-vowel change in their past tense forms (like strong verbs).
+* **kennen** (to know): *ich kenne, du kennst, er kennt*
+* **bringen** (to bring): *ich bringe, du bringst, er bringt*
 
 ---
 
-## 9. Imperative (Commands)
+## 4. `haben` and `sein` (To Have & To Be)
 
-Form depends on the person and degree of formality:
+The two most important verbs, `haben` (to have) and `sein` (to be), are highly irregular and must be memorized.
 
-- `du` (informal singular): stem (often drop the `st` ending). `Komm!` (kommen)
-- `ihr` (informal plural): present form without `ihr`. `Kommt!`
-- `Sie` (formal): `Kommen Sie!`
-- `wir` (let's): `Kommen wir!` (or more commonly `Lass uns kommen` in colloquial speech)
-
-Examples:
-- Spiel! (du)
-- Spielt! (ihr)
-- Spielen Sie! (Sie)
-
----
-
-## 10. Word order and conjugation (important tips)
-
-- In main clauses, the conjugated verb is in second position.
-- In subordinate clauses or at the end (Perfekt/Infinitiv groups), non-finite verbs move to the end.
-
-Example: `Ich habe gestern Fußball gespielt.` (Perfekt — `habe` in 2nd position, `gespielt` at end)
-
-Modal verbs: conjugated in second position; the main verb goes to the end in infinitive form: `Ich kann schwimmen.`
+| Subject | **haben** (to have) | **sein** (to be) |
+|:---|:---|:---|
+| ich | habe | bin |
+| du | hast | bist |
+| er/sie/es | hat | ist |
+| wir | haben | sind |
+| ihr | habt | seid |
+| sie/Sie | haben | sind |
 
 ---
 
-## 11. Short reference table: present tense endings
+## 5. Other Verb Forms (Introduction)
 
-| Person | Ending |
-|--------|--------|
-| ich    | -e     |
-| du     | -st    |
-| er/sie/es | -t  |
-| wir    | -en    |
-| ihr    | -t     |
-| sie/Sie | -en   |
+The conjugation patterns you learn in the present tense are the foundation for all other forms.
 
----
-
-## 12. Examples & mini exercise
-
-Conjugate `gehen` (to go) in Präsens:
-
-- ich gehe
-- du gehst
-- er geht
-- wir gehen
-- ihr geht
-- sie gehen
-
-Convert to Perfekt: `ich bin gegangen`.
-
-Mini exercise (answers at the bottom of this repo's verbs section): choose regular/irregular verbs and write Präsens + Perfekt.
+* **Tenses:** To form past tenses (like *Perfekt* or *Präteritum*), you will conjugate `haben` or `sein` and combine it with a **past participle** (e.g., *ge**spiel**t*, *ge**seh**en*).
+* **Modal Verbs:** Verbs like *können* (can) or *wollen* (want) have their own unique conjugation patterns.
+* **Reflexive Verbs:** These verbs use the same conjugation but add a reflexive pronoun (e.g., *ich wasche **mich***).
+* **Imperative (Commands):** These are formed using the verb stem, often from the `du` or `ihr` form (e.g., *Fahr!* *Sei still!*).
+* **Separable Verbs:** Verbs like *anrufen* (to call) use normal conjugation, but the prefix `an-` moves to the end of the clause (*Ich rufe dich **an***).
 
 ---
-
-## 13. Further reading
-
-- See `tenses.md` for an expanded treatment of all tenses.
-- See `modal-verbs.md` and `irregular-verbs.md` for detailed lists and examples.
-
----
-
-Tips: focus first on mastering Präsens, Perfekt, and common modal verbs — these cover most everyday situations.
-

@@ -1,80 +1,53 @@
-# Questions (Fragen)
+# Questions (Fragesätze)
 
-German has two main types of questions: **yes/no questions** and **W-questions**. Word order changes depending on the type.
-
----
+There are two main ways to ask a question in German, and each has its own simple word order rule.
 
 ## 1. Yes/No Questions (Ja/Nein-Fragen)
 
-* The **conjugated verb** comes in the **first position**.
-* The subject immediately follows.
-* Answered with *ja* or *nein* (sometimes with a full sentence).
+These are questions that can be answered with a simple "yes" or "no."
 
-Examples:
+**Rule:** **V1 (Verb-First)**. The **conjugated verb** moves to **Position 1**, in front of the subject.
 
-* *Hast du Hunger?* – Ja, ich habe Hunger.
-* *Wohnst du in Berlin?* – Nein, ich wohne in Wuppertal.
-* *Gehst du morgen ins Kino?* – Ja, sicher.
+**Examples:**
+* **Statement:** *Du kommst aus Deutschland.* (You come from Germany.)
+* **Question:** ***Kommst** du aus Deutschland?* (Do you come from Germany?)
 
----
+* **Statement:** *Er hat ein Auto.* (He has a car.)
+* **Question:** ***Hat** er ein Auto?* (Does he have a car?)
+
+* **Statement (Modal):** *Wir können heute Abend helfen.* (We can help tonight.)
+* **Question:** ***Können** wir heute Abend helfen?* (Can we help tonight?)
 
 ## 2. W-Questions (W-Fragen)
 
-* Begin with a **question word** (wer, was, wo, wann, wie, warum, welcher…).
-* The **conjugated verb** comes directly after the question word.
-* The subject usually comes after the verb.
+These are informational questions that require an answer other than "yes" or "no." They begin with a "W-word" (question word).
 
-Examples:
+**Rule:** The **W-word** is in **Position 1**, and the rest of the sentence follows the standard **V2 (Verb-Second) rule**, with the verb in Position 2.
 
-* *Wo wohnst du?* – Ich wohne in Köln.
-* *Wann beginnt der Unterricht?* – Er beginnt um 9 Uhr.
-* *Warum lernst du Deutsch?* – Weil ich in Deutschland arbeite.
-* *Wie spät ist es?* – Es ist zehn Uhr.
+**Common W-Words:**
+* **Wer?** (Who? - *Nominative*)
+* **Wen?** (Whom? - *Accusative*)
+* **Wem?** (Whom? - *Dative*)
+* **Wessen?** (Whose? - *Genitive*)
+* **Was?** (What?)
+* **Wann?** (When?)
+* **Wo?** (Where?)
+* **Wohin?** (Where to?)
+* **Woher?** (Where from?)
+* **Warum? / Wieso?** (Why?)
+* **Wie?** (How?)
+* **Wie viel?** (How much?)
+* **Wie viele?** (How many?)
+* **Welche(r/s)?** (Which?)
 
----
+**Examples:**
+* ***Wann** (1) **gehst** (2) du ins Kino?* (When are you going to the cinema?)
+* ***Wo** (1) **ist** (2) mein Schlüssel?* (Where is my key?)
+* ***Warum** (1) **lernst** (2) du Deutsch?* (Why are you learning German?)
 
-## 3. Common Question Words
-
-| Question Word | Meaning    | Example                                  |
-| ------------- | ---------- | ---------------------------------------- |
-| **wer**       | who        | *Wer ist das?* – Das ist mein Lehrer.    |
-| **was**       | what       | *Was machst du?* – Ich lerne Deutsch.    |
-| **wo**        | where      | *Wo wohnst du?* – In Düsseldorf.         |
-| **woher**     | from where | *Woher kommst du?* – Aus Griechenland.   |
-| **wohin**     | to where   | *Wohin gehst du?* – Nach Hause.          |
-| **wann**      | when       | *Wann fahren wir?* – Morgen früh.        |
-| **wie**       | how        | *Wie geht es dir?* – Gut, danke.         |
-| **warum**     | why        | *Warum lachst du?* – Weil es lustig ist. |
-| **welcher**   | which      | *Welches Buch liest du?* – Dieses hier.  |
-
----
-
-## 4. Indirect Questions
-
-Embedded inside another sentence. The **verb moves to the end**, just like in subordinate clauses.
-
-* *Ich weiß nicht, **ob er heute kommt**.*
-* *Kannst du mir sagen, **wann der Zug ankommt**?*
-* *Er fragt, **wo du wohnst**.*
+**Questions with Case:**
+* ***Wer** (1) **hat** (2) das gesagt?* (Who said that? - *Wer* is the subject)
+* ***Wen** (1) **hast** (2) du gesehen?* (Whom did you see? - *Wen* is the accusative object)
+* ***Wem** (1) **hast** (2) du geholfen?* (Whom did you help? - *Wem* is the dative object)
 
 ---
-
-## 5. Quick Pitfalls
-
-* Forgetting verb-first in yes/no questions.
-
-  * ❌ *Du gehst morgen ins Kino?* (informal OK in speech, wrong in standard grammar)
-  * ✅ *Gehst du morgen ins Kino?*
-* Mixing up *wo*, *woher*, *wohin*.
-
-  * *wo* = location (Wo bist du?)
-  * *woher* = origin (Woher kommst du?)
-  * *wohin* = destination (Wohin gehst du?)
-
----
-
-## Quick Summary
-
-* **Yes/No:** Verb first, subject second.
-* **W-Questions:** Question word + verb + subject.
-* **Indirect questions:** Verb goes to the end.

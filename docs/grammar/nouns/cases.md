@@ -98,8 +98,3 @@ The four cases are:
 | Genitiv    | Wessen?   | Possession | Das Auto **des Mannes** ist neu. |
 
 ---
-
-## 6. Useful Grammar Sites
-
-- [Lingolia German Grammar – Cases](https://deutsch.lingolia.com/de/grammatik) – clear explanations, tables, and exercises.
-- [Scribbr – German Grammar](https://www.scribbr.de/) – structured guides with examples for cases, articles, and more.

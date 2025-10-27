@@ -1,107 +1,116 @@
-# Passiv (Passive Voice)
+# Passive Voice (Passiv)
 
-The passive voice is used to focus on an action or its result rather than who performs it. German has two main passive types:
+The passive voice is used to shift focus from the **doer** of an action to the **action itself** or the **person/thing receiving it**.
 
-- Vorgangspassiv (process passive) — formed with `werden` + Partizip II, focuses on the action.
-- Zustandspassiv (state passive) — formed with `sein` + Partizip II, focuses on the resulting state.
+* **Active:** *Der Mann repariert das Auto.* (The man repairs the car. - Focus on the man.)
+* **Passive:** *Das Auto wird repariert.* (The car is being repaired. - Focus on the car.)
 
----
-
-## 1. Vorgangspassiv (process passive)
-
-Formation: `werden` (conjugated) + Partizip II of main verb.
-
-Present:
-- Aktiv: `Die Firma produziert das Auto.`
-- Passiv: `Das Auto wird (von der Firma) produziert.`
-
-Perfekt (rare, uses `sein` + Partizip II + worden):
-- Aktiv: `Die Firma hat das Auto produziert.`
-- Passiv: `Das Auto ist (von der Firma) produziert worden.`
-
-Präteritum:
-- `Das Auto wurde produziert.`
-
-Futur:
-- `Das Auto wird produziert werden.`
-
-Notes:
-- The agent (doer) can be expressed with `von` or `durch`: `Das Auto wird von der Firma produziert.` / `Die Tür wurde durch den Wind geöffnet.`
-- If the agent is omitted, the actor is unknown or unimportant: `Das Fenster wird repariert.`
+German has two main types of passive, which are not interchangeable:
+1.  **Process Passive (Vorgangspassiv):** Describes the *action* or *process*. Uses the verb `werden`.
+2.  **State Passive (Zustandspassiv):** Describes the *result* or *state* after the action is complete. Uses the verb `sein`.
 
 ---
 
-## 2. Zustandspassiv (state passive)
+## 1. The Process Passive (Vorgangspassiv)
 
-Formation: `sein` (conjugated) + Partizip II.
+This is the most common passive form. It emphasizes the **action in progress**. It's formed with the auxiliary verb `werden` + the Past Participle (Partizip II).
 
-Use: describes the result or state after an action.
+**Formula:** `werden` (conjugated) + `Partizip II`
 
-Example:
-- `Die Tür ist geöffnet.` (The door is open — result)
-- `Die Fenster sind repariert.`
+### Tenses of the Process Passive
 
-Comparison:
-- Vorgangspassiv (process): `Die Tür wird geöffnet.` (The door is being opened.)
-- Zustandspassiv (state): `Die Tür ist geöffnet.` (The door is open.)
+| Tense | Formation | Example |
+|:---|:---|:---|
+| **Present** | `wird` + Partizip II | *Das Auto **wird** repariert.* (The car **is being** repaired.) |
+| **Simple Past**| `wurde` + Partizip II | *Das Auto **wurde** repariert.* (The car **was** repaired.) |
+| **Present Perfect**| `ist` + Partizip II + `worden` | *Das Auto **ist** repariert **worden**.* (The car **has been** repaired.) |
+| **Future I** | `wird` + Partizip II + `werden`| *Das Auto **wird** repariert **werden**.* (The car **will be** repaired.) |
 
----
-
-## 3. Passive with modal verbs
-
-When using modals, the infinitive of `werden` or the Partizip II may appear at the end depending on tense.
-
-Present with modal:
-- Aktiv: `Die Firma muss das Auto reparieren.`
-- Passiv: `Das Auto muss (von der Firma) repariert werden.`
-
-Perfect with modal (common construction):
-- `Das Auto hat repariert werden müssen.` (rare in speech; more common rephrasing: `Die Firma hat das Auto reparieren müssen.`)
+*Note on the Perfect Tense:* The past participle of `werden` is `geworden`. However, in the passive, it is shortened to **`worden`**.
 
 ---
 
-## 4. Tense table (Vorgangspassiv)
+## 2. The State Passive (Zustandspassiv)
 
-| Time | Formation | Example |
-|------|-----------|---------|
-| Präsens | werden + Partizip II | Das Paket wird geliefert. |
-| Präteritum | wurde + Partizip II | Das Paket wurde geliefert. |
-| Perfekt | ist + Partizip II + worden | Das Paket ist geliefert worden. |
-| Plusquamperfekt | war + Partizip II + worden | Das Paket war geliefert worden. |
-| Futur I | wird + Partizip II + werden | Das Paket wird geliefert werden. |
+This form is used much less often. It emphasizes the **resulting state** after an action has been completed. It's formed with the auxiliary verb `sein` + the Past Participle (Partizip II).
 
----
+In this form, the Past Participle acts just like an adjective.
 
-## 5. Agent phrases and prepositions
+**Formula:** `sein` (conjugated) + `Partizip II`
 
-- `von` is the neutral agent marker: `Das Buch wurde von dem Autor geschrieben.`
-- `durch` often indicates means or cause: `Die Straße wurde durch den Sturm zerstört.`
-- `von` + dative / `durch` + accusative depending on meaning.
+| Tense | Formation | Example |
+|:---|:---|:---|
+| **Present** | `ist` + Partizip II | *Das Auto **ist** repariert.* (The car **is** repaired. - i.e., it is in a repaired state) |
+| **Simple Past**| `war` + Partizip II | *Das Auto **war** repariert.* (The car **was** repaired. - i.e., it was in a repaired state) |
 
 ---
 
-## 6. Common pitfalls and tips
+## 3. Critical Comparison: Process vs. State
 
-- Choose `sein` vs `werden` carefully (state vs process).
-- Many verbs that take a direct object in active can be passivized; intransitive verbs cannot (except with a dummy `es` or turning the clause into a quasi-passive: `Es wird getanzt.`)
-- Colloquial German often avoids complex passive structures and prefers active or reflexive constructions: `Man repariert das Fenster.` or `Das Fenster lässt sich reparieren.`
+Choosing the wrong auxiliary (`werden` vs. `sein`) is the most common mistake.
 
----
-
-## 7. Mini exercise
-
-Convert these active sentences into Vorgangspassiv (present):
-
-1. `Die Firma liefert die Waren.`
-2. `Jemand öffnet die Tür.`
-3. `Der Mechaniker repariert das Auto.`
-
-Answers:
-1. `Die Waren werden (von der Firma) geliefert.`
-2. `Die Tür wird (von jemandem) geöffnet.`
-3. `Das Auto wird (vom Mechaniker) repariert.`
+| Process Passive (`werden`) | State Passive (`sein`) |
+|:---|:---|
+| *Die Tür **wird** geöffnet.* | *Die Tür **ist** geöffnet.* |
+| (The door **is being** opened.) | (The door **is** open.) |
+| **Focus:** The *action* of opening. | **Focus:** The *result* of being open. |
+| | |
+| *Das Fenster **ist** repariert **worden**.* | *Das Fenster **ist** repariert.* |
+| (The window **has been** repaired.) | (The window **is** repaired.) |
+| **Focus:** The *repair event* happened. | **Focus:** The window is *in a fixed state* now. |
 
 ---
 
-Further reading: see `conjugation.md` for Participles and auxiliaries, and `tenses.md` for the tense system.
+## 4. The Agent (Adding the "Doer")
 
+If you need to mention who or what performed the action, you use prepositions:
+
+* **`von` + Dative:** Used for the main agent (person, organization).
+    * *Das Auto wird **von dem Mechaniker** repariert.* (The car is repaired by the mechanic.)
+
+* **`durch` + Accusative:** Used for the means or instrument (the tool, or a force of nature).
+    * *Das Fenster wurde **durch den Sturm** zerstört.* (The window was destroyed by the storm.)
+
+---
+
+## 5. Passive with Modal Verbs
+
+When using a modal verb, the modal is conjugated, and the passive is formed with `Partizip II + werden (infinitive)`.
+
+**Formula:** Modal (conjugated) + `Partizip II` + `werden`
+
+* **Active:** *Man muss das Auto reparieren.* (One must repair the car.)
+* **Passive:** *Das Auto **muss** repariert **werden**.* (The car must be repaired.)
+
+* **Active:** *Man kann die Tür öffnen.* (One can open the door.)
+* **Passive:** *Die Tür **kann** geöffnet **werden**.* (The door can be opened.)
+
+---
+
+## 6. Impersonal Passive (Unpersönliches Passiv)
+
+This form is used with intransitive verbs (verbs that don't take a direct object) to say that an action is happening in general.
+
+**Formula:** `Es` + `wird` (conjugated) + ...
+
+* ***Es wird** getanzt.* (There is dancing / People are dancing.)
+* ***Es wird** hier viel gearbeitet.* (A lot of work is done here / People work a lot here.)
+
+If another element is in Position 1, the `es` is dropped:
+* *Hier **wird** viel gearbeitet.*
+
+---
+
+## 7. Active Alternatives to Passive
+
+In daily speech, Germans often prefer active constructions to avoid the passive.
+
+* **`man` (one / they / you)**
+    * *Passiv:* `Das Auto wird repariert.`
+    * *Aktiv:* **`Man`** `repariert das Auto.` (One repairs the car.)
+
+* **`sich lassen` (can be...-ed)**
+    * *Passiv:* `Das Auto kann repariert werden.`
+    * *Aktiv:* `Das Auto **lässt sich** reparieren.` (The car can be repaired / is repairable.)
+
+---

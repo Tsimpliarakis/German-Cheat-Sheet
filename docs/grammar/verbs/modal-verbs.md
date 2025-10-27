@@ -1,127 +1,119 @@
-# Modalverben (Modal Verbs)
+# Modal Verbs (Modalverben)
 
 ## Introduction
 
-Modal verbs (Modalverben) modify the meaning of the main verb in a sentence.
-They are usually followed by an **infinitive** without "zu" and are **irregular** in conjugation.
+Modal verbs (Modalverben) change or "modify" the meaning of the main verb in a sentence. They express ability, permission, necessity, desire, or obligation.
 
-Common modal verbs: **können, müssen, dürfen, sollen, wollen, mögen, möchten**
+They are almost always used with **another verb in its infinitive form** (e.g., *lernen*, *schwimmen*).
 
----
+The main modal verbs are:
+* **können** (can, to be able to)
+* **müssen** (must, to have to)
+* **dürfen** (may, to be allowed to)
+* **sollen** (should, to be supposed to)
+* **wollen** (to want to)
+* **mögen** (to like)
+* **möchten** (would like) - *This is a special form, explained below.*
 
-## 1. List of Modal Verbs
+## 1. Word Order (The "Verb Bracket")
 
-| Modal Verb | Meaning / Usage | Example (1st Person Singular) |
-|------------|----------------|-------------------------------|
-| **können** | can / be able to | Ich **kann** schwimmen. (I can swim.) |
-| **müssen** | must / have to | Ich **muss** lernen. (I must study.) |
-| **dürfen** | may / be allowed to | Ich **darf** hier sitzen. (I may sit here.) |
-| **sollen** | should / ought to | Ich **soll** helfen. (I should help.) |
-| **wollen** | want / intend to | Ich **will** ein Buch kaufen. (I want to buy a book.) |
-| **mögen** | like | Ich **mag** Schokolade. (I like chocolate.) |
-| **möchten** | would like (polite) | Ich **möchte** einen Kaffee. (I would like a coffee.) |
+This is the most important rule. The **conjugated modal verb** goes in **Position 2**, and the **main verb (infinitive)** goes to the **very end** of the clause.
 
----
+* *Ich **kann** Deutsch **sprechen**.* (I can speak German.)
+* *Er **muss** heute **arbeiten**.* (He must work today.)
+* *Wir **wollen** ins Kino **gehen**.* (We want to go to the cinema.)
 
-## 2. Full Conjugation (All 6 Tenses)
+## 2. Conjugation (Present Tense / Präsens)
 
-### 1. Präsens (Present)
+Modal verbs are **irregular** in the present tense.
+**Key Rule:** The **`ich`** and **`er/sie/es`** forms are **identical** and have no personal ending.
 
-| Verb     | ich   | du      | er/sie/es | wir    | ihr    | sie/Sie | Example |
-|----------|-------|---------|-----------|--------|--------|---------|---------|
-| können   | kann  | kannst  | kann      | können | könnt  | können  | Ich kann schwimmen. |
-| müssen   | muss  | musst   | muss      | müssen | müsst  | müssen  | Ich muss lernen. |
-| dürfen   | darf  | darfst  | darf      | dürfen | dürft  | dürfen  | Ich darf hier sitzen. |
-| sollen   | soll  | sollst  | soll      | sollen | sollt  | sollen  | Ich soll helfen. |
-| wollen   | will  | willst  | will      | wollen | wollt  | wollen  | Ich will ein Buch kaufen. |
-| mögen    | mag   | magst   | mag       | mögen  | mögt   | mögen   | Ich mag Schokolade. |
-| möchten  | möchte| möchtest| möchte    | möchten| möchtet| möchten | Ich möchte einen Kaffee. |
-
----
-
-### 2. Präteritum (Simple Past)
-
-| Verb     | ich      | du        | er/sie/es | wir      | ihr      | sie/Sie | Example |
-|----------|----------|-----------|-----------|----------|----------|---------|---------|
-| können   | konnte   | konntest  | konnte    | konnten  | konntet  | konnten | Ich konnte schwimmen. |
-| müssen   | musste   | musstest  | musste    | mussten  | musstet  | mussten | Ich musste lernen. |
-| dürfen   | durfte   | durftest  | durfte    | durften  | durftet  | durften | Ich durfte hier sitzen. |
-| sollen   | sollte   | solltest  | sollte    | sollten  | solltet  | sollten | Ich sollte helfen. |
-| wollen   | wollte   | wolltest  | wollte    | wollten  | wolltet  | wollten | Ich wollte ein Buch kaufen. |
-| mögen    | mochte   | mochtest  | mochte    | mochten  | mochtet  | mochten | Ich mochte Schokolade. |
-| möchten  | wollte…  | wolltest… | wollte…   | wollten… | wolltet… | wollten…| Ich wollte einen Kaffee. |
+| Verb | ich | du | er/sie/es | wir | ihr | sie/Sie |
+|:---|:---|:---|:---|:---|:---|:---|
+| **können** | **kann** | kannst | **kann** | können | könnt | können |
+| **müssen** | **muss** | musst | **muss** | müssen | müsst | müssen |
+| **dürfen** | **darf** | darfst | **darf** | dürfen | dürft | dürfen |
+| **sollen** | **soll** | sollst | **soll** | sollen | sollt | sollen |
+| **wollen** | **will** | willst | **will** | wollen | wollt | wollen |
+| **mögen** | **mag** | magst | **mag** | mögen | mögt | mögen |
+| **möchten**| **möchte** | möchtest| **möchte** | möchten| möchtet| möchten |
 
 ---
 
-### 3. Perfekt (Present Perfect)
+## 3. Conjugation (Simple Past / Präteritum)
 
-| Verb     | ich                 | du                 | er/sie/es           | wir                   | ihr                   | sie/Sie             | Example |
-|----------|-------------------|------------------|-------------------|--------------------|--------------------|-------------------|---------|
-| können   | habe gekonnt       | hast gekonnt      | hat gekonnt        | haben gekonnt       | habt gekonnt       | haben gekonnt      | Ich habe schwimmen können. |
-| müssen   | habe gemusst       | hast gemusst      | hat gemusst        | haben gemusst       | habt gemusst       | haben gemusst      | Ich habe lernen müssen. |
-| dürfen   | habe gedurft       | hast gedurft      | hat gedurft        | haben gedurft       | habt gedurft       | haben gedurft      | Ich habe hier sitzen dürfen. |
-| sollen   | habe sollen        | hast sollen       | hat sollen         | haben sollen        | habt sollen        | haben sollen       | Ich habe helfen sollen. |
-| wollen   | habe wollen        | hast wollen       | hat wollen         | haben wollen        | habt wollen        | haben wollen       | Ich habe ein Buch kaufen wollen. |
-| mögen    | habe gemocht       | hast gemocht      | hat gemocht        | haben gemocht       | habt gemocht       | haben gemocht      | Ich habe Schokolade gemocht. |
-| möchten  | habe … möchten     | hast … möchten   | hat … möchten     | haben … möchten    | habt … möchten    | haben … möchten   | Ich habe einen Kaffee möchten. |
+In the Präteritum, modal verbs become "mixed" verbs: they lose their umlaut (if any) and take the weak `-te` ending.
 
----
+| Verb | ich | du | er/sie/es | wir | ihr | sie/Sie |
+|:---|:---|:---|:---|:---|:---|:---|
+| **können** | konn**te** | konntest | konn**te** | konnten | konntet | konnten |
+| **müssen** | muss**te** | musstest | muss**te** | mussten | musstet | mussten |
+| **dürfen** | durf**te** | durftest | durf**te** | durften | durftet | durften |
+| **sollen** | soll**te** | solltest | soll**te** | sollten | solltet | sollten |
+| **wollen** | woll**te** | wolltest | woll**te** | wollten | wolltet | wollten |
+| **mögen** | moch**te** | mochtest | moch**te** | mochten | mochtet | mochten |
 
-### 4. Plusquamperfekt (Past Perfect)
+### The Special Case: `möchten`
+`möchten` is technically the Subjunctive II (polite) form of `mögen`. It **has no Präteritum form**.
 
-| Verb     | ich                    | du                     | er/sie/es              | wir                     | ihr                     | sie/Sie                  | Example |
-|----------|-----------------------|-----------------------|-----------------------|------------------------|------------------------|-------------------------|---------|
-| können   | hatte gekonnt          | hattest gekonnt        | hatte gekonnt          | hatten gekonnt          | hattet gekonnt          | hatten gekonnt           | Ich hatte schwimmen können. |
-| müssen   | hatte gemusst          | hattest gemusst        | hatte gemusst          | hatten gemusst          | hattet gemusst          | hatten gemusst           | Ich hatte lernen müssen. |
-| dürfen   | hatte gedurft          | hattest gedurft        | hatte gedurft          | hatten gedurft          | hattet gedurft          | hatten gedurft           | Ich hatte hier sitzen dürfen. |
-| sollen   | hatte sollen           | hattest sollen         | hatte sollen           | hatten sollen           | hattet sollen           | hatten sollen            | Ich hatte helfen sollen. |
-| wollen   | hatte wollen           | hattest wollen         | hatte wollen           | hatten wollen           | hattet wollen           | hatten wollen            | Ich hatte ein Buch kaufen wollen. |
-| mögen    | hatte gemocht          | hattest gemocht        | hatte gemocht          | hatten gemocht          | hattet gemocht          | hatten gemocht           | Ich hatte Schokolade gemocht. |
-| möchten  | hatte … möchten        | hattest … möchten      | hatte … möchten        | hatten … möchten        | hattet … möchten        | hatten … möchten         | Ich hatte einen Kaffee möchten. |
+To express "would like" in the past, German speakers switch to **`wollen`** (to want).
+
+* **Present:** *Ich **möchte** einen Kaffee.* (I would like a coffee.)
+* **Past:** *Ich **wollte** einen Kaffee.* (I wanted a coffee.)
 
 ---
 
-### 5. Futur I (Future Simple)
+## 4. Conjugation (Present Perfect / Perfekt)
 
-| Verb     | ich             | du             | er/sie/es        | wir             | ihr             | sie/Sie         | Example |
-|----------|----------------|----------------|-----------------|----------------|----------------|----------------|---------|
-| können   | werde können    | wirst können    | wird können      | werden können   | werdet können   | werden können   | Ich werde schwimmen können. |
-| müssen   | werde müssen    | wirst müssen    | wird müssen      | werden müssen   | werdet müssen   | werden müssen   | Ich werde lernen müssen. |
-| dürfen   | werde dürfen    | wirst dürfen    | wird dürfen      | werden dürfen   | werdet dürfen   | werden dürfen   | Ich werde hier sitzen dürfen. |
-| sollen   | werde sollen    | wirst sollen    | wird sollen      | werden sollen   | werdet sollen   | werden sollen   | Ich werde helfen sollen. |
-| wollen   | werde wollen    | wirst wollen    | wird wollen      | werden wollen   | werdet wollen   | werden wollen   | Ich werde ein Buch kaufen wollen. |
-| mögen    | werde mögen     | wirst mögen     | wird mögen       | werden mögen    | werdet mögen    | werden mögen    | Ich werde Schokolade mögen. |
-| möchten  | werde … möchten | wirst … möchten | wird … möchten  | werden … möchten| werdet … möchten| werden … möchten| Ich werde einen Kaffee möchten. |
+This is the most complex rule. The Perfekt for modal verbs is formed in **two different ways**.
 
----
+### Way 1: Modal Verb + Main Verb (Most Common)
+When you use a modal verb with another infinitive (like "I was able to swim"), you use the **Double Infinitive** rule.
 
-### 6. Futur II (Future Perfect)
+**Rule:** `haben` (conjugated) + `Main Verb (Infinitive)` + `Modal Verb (Infinitive)`
 
-| Verb     | ich                       | du                        | er/sie/es               | wir                       | ihr                        | sie/Sie                  | Example |
-|----------|---------------------------|---------------------------|-------------------------|---------------------------|---------------------------|-------------------------|---------|
-| können   | werde gekonnt haben        | wirst gekonnt haben        | wird gekonnt haben       | werden gekonnt haben       | werdet gekonnt haben       | werden gekonnt haben      | Ich werde schwimmen können gehabt haben. |
-| müssen   | werde gemusst haben        | wirst gemusst haben        | wird gemusst haben       | werden gemusst haben       | werdet gemusst haben       | werden gemusst haben      | Ich werde lernen müssen gehabt haben. |
-| dürfen   | werde gedurft haben        | wirst gedurft haben        | wird gedurft haben       | werden gedurft haben       | werdet gedurft haben       | werden gedurft haben      | Ich werde hier sitzen dürfen gehabt haben. |
-| sollen   | werde sollen gehabt haben  | wirst sollen gehabt haben  | wird sollen gehabt haben | werden sollen gehabt haben | werdet sollen gehabt haben | werden sollen gehabt haben | Ich werde helfen sollen gehabt haben. |
-| wollen   | werde wollen gehabt haben  | wirst wollen gehabt haben  | wird wollen gehabt haben | werden wollen gehabt haben | werdet wollen gehabt haben | werden wollen gehabt haben | Ich werde ein Buch kaufen wollen gehabt haben. |
-| mögen    | werde gemocht haben        | wirst gemocht haben        | wird gemocht haben       | werden gemocht haben       | werdet gemocht haben       | werden gemocht haben      | Ich werde Schokolade gemocht haben. |
-| möchten  | werde … möchten gehabt haben | wirst … möchten gehabt haben | wird … möchten gehabt haben | werden … möchten gehabt haben | werdet … möchten gehabt haben | werden … möchten gehabt haben | Ich werde einen Kaffee möchten gehabt haben. |
+| Verb | Example Sentence |
+|:---|:---|
+| **können** | *Ich habe schwimmen **können**.* (I was able to swim.) |
+| **müssen** | *Er hat arbeiten **müssen**.* (He had to work.) |
+| **dürfen** | *Wir haben nicht gehen **dürfen**.* (We were not allowed to go.) |
+| **sollen** | *Du hast aufräumen **sollen**.* (You were supposed to clean up.) |
+| **wollen** | *Sie hat schlafen **wollen**.* (She wanted to sleep.) |
+| **mögen** | *Ich habe den Film nicht sehen **mögen**.* (I did not like to see the film.)* |
+*\*This is rare. It's more common to say: "Ich mochte den Film nicht."*
 
+### Way 2: Modal Verb as Main Verb (Less Common)
+When the modal verb is the *only* verb (or the main idea is understood), you use its normal **past participle**.
 
----
+**Rule:** `haben` (conjugated) + `Past Participle`
 
-## 3. Quick Tips
-
-1. Modal verbs **always appear with an infinitive** of the main verb:
-   - Ich **kann schwimmen**. / Er **will lernen**.
-2. **Möchten** is the polite form of **mögen** used in requests.
-3. In the **past tense**, modal verbs combine with **haben** and the main verb in infinitive:
-   - Ich **habe schwimmen können**. (I was able to swim.)
-4. Word order: The modal verb is conjugated and goes in the **second position**, while the main verb goes to the **end**.
+| Verb | Past Participle | Example Sentence |
+|:---|:---|:---|
+| **können** | **gekonnt** | *Ich habe das **gekonnt**.* (I was able to do that.) |
+| **müssen** | **gemusst** | *Das habe ich **gemusst**.* (I had to do that.) |
+| **dürfen** | **gedurft** | *Er hat das **gedurft**.* (He was allowed to do that.) |
+| **sollen** | **gesollt** | *Das hätte ich nicht **gesollt**.* (I should not have done that.)* |
+| **wollen** | **gewollt** | *Das habe ich **gewollt**.* (I wanted that.) |
+| **mögen** | **gemocht** | *Sie hat den Hund **gemocht**.* (She liked the dog.) |
+*\*This is a very common use for `mögen`.*
 
 ---
 
-## 4. Useful Resources
+## 5. Meanings & Usage
 
-- [Lingolia – Modalverben](https://deutsch.lingolia.com/de/grammatik/verben/modalverben) – clear explanations and exercises.
-- [Scribbr – Modal Verbs](https://www.scribbr.de/) – structured guides with examples.
+* **`können` vs. `dürfen`**
+    * **können**: ability (*Ich kann schwimmen.* - I know how to swim.)
+    * **dürfen**: permission (*Ich darf schwimmen.* - I am allowed to swim.)
+    * *Kann ich zur Toilette gehen?* (Am I physically able to go to the toilet? - *colloquial*)
+    * *Darf ich zur Toilette gehen?* (May I go to the toilet? - *correct/polite*)
+
+* **`müssen` vs. `sollen`**
+    * **müssen**: necessity, internal obligation (*Ich muss essen.* - I must eat [or I'll starve].)
+    * **sollen**: should, external obligation/advice (*Der Arzt sagt, ich soll mehr essen.* - The doctor says I should eat more.)
+
+* **`wollen` vs. `möchten` vs. `mögen`**
+    * **mögen**: to like (usually a noun). *Ich mag Pizza.* (I like pizza.)
+    * **wollen**: to want (strong, direct). *Ich will Pizza.* (I want pizza.)
+    * **möchten**: would like (polite, gentle). *Ich möchte Pizza.* (I would like pizza.)
+
+---

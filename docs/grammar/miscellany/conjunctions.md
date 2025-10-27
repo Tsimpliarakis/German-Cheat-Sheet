@@ -23,3 +23,5 @@ Conjunctions are words that connect words, phrases, or clauses. In German, conju
 ---
 
 Mastering conjunctions helps you build more complex and natural sentences in German.
+
+---

@@ -121,5 +121,3 @@ Nouns form plurals in different ways. The plural must be memorized with each nou
 * Plurals follow several patterns: **-e, -er, -n/-en, -s**, or none.
 
 ---
-
-Want me to also prepare a **one-page declension overview chart** (masc./fem./neut./plural across cases), so it matches your `cases.md` page with a super compact reference?

@@ -29,3 +29,5 @@ Indefinite articles in German correspond to “a” or “an” in English. They
 ---
 
 Learning the correct forms of the indefinite article is essential for German sentence structure.
+
+---
