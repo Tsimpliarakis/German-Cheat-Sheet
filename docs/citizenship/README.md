@@ -86,4 +86,7 @@ It promotes integration and helps new citizens participate actively in German so
 > Note: The wording of individual questions and answers may differ slightly from the original questions used.
 > The image descriptions are provided from the perspective of the person viewing the image.
 
+> The questions of this site have been imported from the official BAMF site. You can find the pdf [here](https://www.bamf.de/SharedDocs/Anlagen/DE/Integration/Einbuergerung/gesamtfragenkatalog-lebenindeutschland.pdf?__blob=publicationFile&).
+> The questions are up to date as of **07.05.2025**.
+
 ---
